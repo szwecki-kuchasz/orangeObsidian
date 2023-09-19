@@ -1,3 +1,4 @@
 * Lorem ipsum
-* Dolor sit maet
+* Dolor sit amet
+Verba volant, scripta manent
 

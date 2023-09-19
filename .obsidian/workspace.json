@@ -11,12 +11,8 @@
             "id": "7fd4778bcb259a2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testowa notatka.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testowa notatka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testowa notatka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testowa notatka.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,13 @@
   },
   "active": "7fd4778bcb259a2b",
   "lastOpenFiles": [
-    "Testowa notatka.md"
+    "Zettelkasten/Cognitive biases.md",
+    "Przykładowe  notatki/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
+    "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
+    "Przykładowe  notatki/Dobelli - Sztuka jasnego myślenia.md",
+    "2023-09-19.md",
+    "Testowa notatka.md",
+    "Zettelkasten",
+    "Przykładowe  notatki"
   ]
 }

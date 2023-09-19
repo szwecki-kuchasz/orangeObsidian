@@ -17,3 +17,4 @@ List of key points:
 11. Use Feynman's method for solving problems.
 12. Write informative introductions.
 xxx
+jak to bez zmian!

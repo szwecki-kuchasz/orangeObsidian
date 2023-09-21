@@ -12,7 +12,7 @@ also known as DriveSync, Dropsync or OneSync
 or Syncthing
 Całe 23 minuty - przedstawia różne alternatywy
 Co ciekawe - nic o GIT :(
-Ostrzega orzed miksowaniem sposobów, to oczywiste - race hazard & disaster
+Ostrzega orzed miksowaniem sposobów, to oczywiste - race hazard & disaster ^50c5cd
 # Kolega wyżej wspomina o Meta Post Syncing between Devices, szukam i mam:
 https://forum.obsidian.md/t/meta-post-syncing-between-devices/20983
 

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"182d1c37694d7e73","x":-160,"y":200,"width":400,"height":400,"type":"file","file":"Zettelkasten/Cognitive biases.md"},
+		{"id":"f57bfac65bdf9a1a","x":-260,"y":-220,"width":400,"height":400,"type":"file","file":"Testowa druga notka.md"},
+		{"id":"92a6ffcddbd1d487","x":339,"y":-15,"width":250,"height":315,"type":"text","text":"Testowa karta\nLorem ipsum\n* Doler sit amet\n* Sic\n"}
+	],
+	"edges":[]
+}

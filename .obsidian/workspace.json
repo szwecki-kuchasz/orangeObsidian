@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-19.md",
+                "file": "Obsidian - synchronizacja.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-19.md",
+                "file": "Obsidian - synchronizacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-19.md",
+                "file": "Obsidian - synchronizacja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-19.md"
+                "file": "Obsidian - synchronizacja.md"
               }
             }
           },
@@ -156,14 +156,14 @@
   },
   "active": "7fd4778bcb259a2b",
   "lastOpenFiles": [
-    "Testowa druga notka.md",
     "README.md",
-    "Testowa notatka.md",
+    "2023-09-19.md",
+    "Testowa druga notka.md",
+    "Obsidian - synchronizacja.md",
     "Zettelkasten/Cognitive biases.md",
     "Przykładowe  notatki/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
     "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
     "Przykładowe  notatki/Dobelli - Sztuka jasnego myślenia.md",
-    "2023-09-19.md",
     "Zettelkasten",
     "Przykładowe  notatki"
   ]

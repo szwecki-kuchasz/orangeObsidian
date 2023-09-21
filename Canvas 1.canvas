@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"182d1c37694d7e73","type":"file","file":"Zettelkasten/Cognitive biases.md","x":-160,"y":200,"width":400,"height":400},
-		{"id":"f57bfac65bdf9a1a","type":"file","file":"Testowa druga notka.md","x":-260,"y":-220,"width":400,"height":400},
+		{"id":"182d1c37694d7e73","type":"file","file":"Zettelkasten/Cognitive biases.md","x":-160,"y":240,"width":400,"height":360},
+		{"id":"f57bfac65bdf9a1a","type":"file","file":"Testowa druga notka.md","x":-260,"y":-220,"width":400,"height":400,"color":"#ce0303"},
 		{"id":"33b65bd2471d326d","type":"file","file":"Z tabelkami, test.md","x":380,"y":-135,"width":461,"height":535,"color":"3"}
 	],
 	"edges":[

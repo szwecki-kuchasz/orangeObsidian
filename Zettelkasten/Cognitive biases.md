@@ -3,4 +3,5 @@ Katalog błędów poznawczych B. Bensona [[Buster Benson - Cognitive bias cheat 
 ## Książki:
 - [[Dobelli - Sztuka jasnego myślenia]]
 - [[Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja)]]
-- 
+
+Próba linka do canvasa [[Canvas 1.canvas|Canvas 1]]

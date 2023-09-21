@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b2a599a0e7637852","type":"group","x":-480,"y":-410,"width":650,"height":330,"label":"Untitled group"},
+		{"id":"e4175f143fb950ef","type":"group","x":-165,"y":-390,"width":315,"height":290,"label":"urządzenia"},
+		{"id":"d7285f46e669af46","type":"text","text":"laptop","x":-145,"y":-370,"width":250,"height":60},
+		{"id":"686a83b426f65645","type":"text","text":"Obsidian na","x":-460,"y":-340,"width":250,"height":60},
+		{"id":"180729a9050a28fa","type":"text","text":"smartfon","x":-145,"y":-241,"width":250,"height":60},
+		{"id":"af2a5bd0efe64901","type":"text","text":"PC","x":-120,"y":-301,"width":250,"height":60},
+		{"id":"16b90616aa26081e","type":"text","text":"tablet","x":-145,"y":-181,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"84d2ef9a8a411a43","fromNode":"686a83b426f65645","fromSide":"right","toNode":"d7285f46e669af46","toSide":"left"},
+		{"id":"e88f3cd26da6f494","fromNode":"686a83b426f65645","fromSide":"right","toNode":"af2a5bd0efe64901","toSide":"left"},
+		{"id":"635d5f4ee00ae439","fromNode":"686a83b426f65645","fromSide":"right","toNode":"180729a9050a28fa","toSide":"left"},
+		{"id":"e875e9286401a8a2","fromNode":"686a83b426f65645","fromSide":"right","toNode":"16b90616aa26081e","toSide":"left"}
+	]
+}

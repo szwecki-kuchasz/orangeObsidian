@@ -11,18 +11,24 @@
             "id": "7fd4778bcb259a2b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Untitled.canvas",
-                "viewState": {
-                  "x": 148.5,
-                  "y": 500,
-                  "zoom": -0.9070905394853391
-                }
+                "file": "Z tabelkami, test.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "f9db4b20b0a9fe4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -166,14 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fec5933eaba8ab15",
+  "active": "f9db4b20b0a9fe4a",
   "lastOpenFiles": [
-    "Zettelkasten/z szablonem.md",
-    "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Cognitive biases.md",
-    "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
-    "Z tabelkami, test.md",
+    "Zettelkasten/Untitled.canvas",
+    "Zettelkasten/z szablonem.md",
     "Canvas 1.canvas",
+    "Synchronizacja/Untitled.canvas",
+    "Synchronizacja/Synchronizacja.md",
+    "Synchronizacja",
+    "Z tabelkami, test.md",
+    "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
     "Pasted image 20230921130018.png",
     "Testowa druga notka.md",
     "Untitled.canvas",

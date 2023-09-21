@@ -1,8 +1,12 @@
 {
 	"nodes":[
-		{"id":"182d1c37694d7e73","x":-160,"y":200,"width":400,"height":400,"type":"file","file":"Zettelkasten/Cognitive biases.md"},
-		{"id":"f57bfac65bdf9a1a","x":-260,"y":-220,"width":400,"height":400,"type":"file","file":"Testowa druga notka.md"},
-		{"id":"92a6ffcddbd1d487","x":339,"y":-15,"width":250,"height":315,"type":"text","text":"Testowa karta\nLorem ipsum\n* Doler sit amet\n* Sic\n"}
+		{"id":"182d1c37694d7e73","type":"file","file":"Zettelkasten/Cognitive biases.md","x":-160,"y":200,"width":400,"height":400},
+		{"id":"f57bfac65bdf9a1a","type":"file","file":"Testowa druga notka.md","x":-260,"y":-220,"width":400,"height":400},
+		{"id":"33b65bd2471d326d","type":"file","file":"Z tabelkami, test.md","x":380,"y":-135,"width":461,"height":535,"color":"3"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"30b3f577f4967c1a","fromNode":"f57bfac65bdf9a1a","fromSide":"right","toNode":"33b65bd2471d326d","toSide":"left","color":"3","label":"łącze"},
+		{"id":"ad726b3d44d31a6b","fromNode":"33b65bd2471d326d","fromSide":"bottom","toNode":"182d1c37694d7e73","toSide":"right"},
+		{"id":"6929cab48cdab25a","fromNode":"f57bfac65bdf9a1a","fromSide":"right","toNode":"182d1c37694d7e73","toSide":"right"}
+	]
 }

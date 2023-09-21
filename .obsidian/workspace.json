@@ -11,14 +11,11 @@
             "id": "7fd4778bcb259a2b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas 1.canvas",
-                "viewState": {
-                  "x": -60,
-                  "y": 187.75,
-                  "zoom": 0
-                }
+                "file": "Z tabelkami, test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas 1.canvas",
+                "file": "Z tabelkami, test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas 1.canvas",
+                "file": "Z tabelkami, test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas 1.canvas"
+                "file": "Z tabelkami, test.md"
               }
             }
           },
@@ -166,10 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fd4778bcb259a2b",
+  "active": "fec5933eaba8ab15",
   "lastOpenFiles": [
-    "Z tabelkami, test.md",
     "Canvas 1.canvas",
+    "Z tabelkami, test.md",
     "Pasted image 20230921130018.png",
     "Testowa druga notka.md",
     "Zettelkasten/z szablonem.md",

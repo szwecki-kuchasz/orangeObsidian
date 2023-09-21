@@ -11,8 +11,12 @@
             "id": "7fd4778bcb259a2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Testowa druga notka.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testowa druga notka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testowa druga notka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Testowa druga notka.md"
+              }
             }
           },
           {
@@ -148,16 +156,20 @@
   },
   "active": "7fd4778bcb259a2b",
   "lastOpenFiles": [
+    "Zettelkasten/z szablonem.md",
+    "Untitled.canvas",
+    "Templates/testowy szablon.md",
+    "Pasted image 20230921123143.png",
+    "Zettelkasten/Cognitive biases.md",
+    "Templates",
     "2023-09-19.md",
     "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
     "Przykładowe  notatki/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
     "Przykładowe  notatki/Dobelli - Sztuka jasnego myślenia.md",
     "Canvas 1.canvas",
-    "Untitled.canvas",
     "Obsidian - synchronizacja.md",
     "README.md",
     "Testowa druga notka.md",
-    "Zettelkasten/Cognitive biases.md",
     "Zettelkasten",
     "Przykładowe  notatki"
   ]

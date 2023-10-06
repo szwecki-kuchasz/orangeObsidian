@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z tabelkami, test.md",
+                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
+                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
+                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
+                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md"
+                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md"
               }
             }
           },
@@ -176,17 +175,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9db4b20b0a9fe4a",
+  "active": "7fd4778bcb259a2b",
   "lastOpenFiles": [
+    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
+    "Z tabelkami, test.md",
+    "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
+    "Library/Authors/Łukasz Lamża.md",
+    "Library/Authors/Daniel Kahneman.md",
+    "Library/Authors/Buster Benson.md",
+    "Synchronizacja/Untitled.canvas",
+    "Library/Authors",
+    "Library/Books",
+    "Library",
+    "Synchronizacja/Synchronizacja.md",
+    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
+    "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
     "Zettelkasten/Cognitive biases.md",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/z szablonem.md",
     "Canvas 1.canvas",
-    "Synchronizacja/Untitled.canvas",
-    "Synchronizacja/Synchronizacja.md",
     "Synchronizacja",
-    "Z tabelkami, test.md",
-    "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
     "Pasted image 20230921130018.png",
     "Testowa druga notka.md",
     "Untitled.canvas",
@@ -194,8 +202,6 @@
     "Pasted image 20230921123143.png",
     "Templates",
     "2023-09-19.md",
-    "Przykładowe  notatki/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
-    "Przykładowe  notatki/Dobelli - Sztuka jasnego myślenia.md",
     "Obsidian - synchronizacja.md",
     "README.md",
     "Zettelkasten",

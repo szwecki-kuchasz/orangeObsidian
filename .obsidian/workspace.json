@@ -23,8 +23,12 @@
             "id": "f9db4b20b0a9fe4a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Przykładowe  notatki/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md"
+              }
             }
           },
           {

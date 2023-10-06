@@ -1,0 +1,1 @@
+[[Trudno powiedzieć - Łukasz Lamża]]

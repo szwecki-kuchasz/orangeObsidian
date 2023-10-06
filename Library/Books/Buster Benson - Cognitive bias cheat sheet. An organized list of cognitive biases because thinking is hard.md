@@ -1,11 +1,6 @@
 # Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard. | by Buster Benson | Better Humans
 
-![https://miro.medium.com/max/800/1*yN2Xhv-M5PPerWzDVNt3sw.jpeg](https://miro.medium.com/max/800/1*yN2Xhv-M5PPerWzDVNt3sw.jpeg)
-
----
-
-![1*yN2Xhv-M5PPerWzDVNt3sw.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c060dd29-f4e5-4f34-9d85-1bcc80150803/1yN2Xhv-M5PPerWzDVNt3sw.jpeg)
-
+[[Buster Benson]]
 ## An organized list of cognitive biases because thinking is hard.
 
 [http://chainsawsuit.com/comic/2014/09/16/on-research/](http://chainsawsuit.com/comic/2014/09/16/on-research/)

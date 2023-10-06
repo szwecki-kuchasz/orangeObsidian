@@ -1,8 +1,7 @@
-[[Łukasz Lamża]]
 # Notatki
 ## 2023-03-21 08:40:31 - Trudno powiedzieć
 
-Łukasz Lamża
+[[Łukasz Lamża]]
 
 10
 

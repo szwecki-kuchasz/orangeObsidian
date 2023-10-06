@@ -1,7 +1,3 @@
-Walet trefl
-czyli jopek żołędny
-List of key points:
-
 - Gian-Carlo Rota's "Ten Lessons I Wish I Had Been Taught" provides valuable insights for making people pay attention to your ideas.
 
 1. Every lecture should make only one point.
@@ -16,5 +12,6 @@ List of key points:
 10. Don't worry about small mistakes.
 11. Use Feynman's method for solving problems.
 12. Write informative introductions.
-xxx
-jak to bez zmian!
+
+Z bloga Farnam Street:
+

@@ -2,3 +2,4 @@
 Odwołując się do wieloletnich badań, autorzy tej książki przedstawiają fascynujące wyjaśnienie zjawiska samooszukiwania jego mechanizmów, szkodliwych skutków i sposobów, w jakie możemy się od niego uwolnić. Przewróć stronę, ale wiedz, że już nigdy nie uchylisz się od odpowiedzialności równie łatwo, jak dotąd. 
 Tavris i Aronson połączyli swoje imponujące umiejętności, aby stworzyć wspaniały wzorzec przenikliwości społecznej i naukowego zaangażowania. Nie popełnij błędu, musisz przeczytać tę książkę 
 Robert B. Cialdini, autor książki Wywieranie wpływu na ludzi 
+

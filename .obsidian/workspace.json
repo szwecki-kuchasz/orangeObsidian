@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e531abd4cde4d8f2",
+        "id": "6151a5ea48c08b8c",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd4778bcb259a2b",
+            "id": "46df1c5e35fe6f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9db4b20b0a9fe4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
+                "file": "Formatowanie zaawansowane....md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
+                "file": "Formatowanie zaawansowane....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
+                "file": "Formatowanie zaawansowane....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Books/Dobelli - Sztuka jasnego myślenia.md"
+                "file": "Formatowanie zaawansowane....md"
               }
             }
           },
@@ -162,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,35 +164,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fd4778bcb259a2b",
+  "active": "46df1c5e35fe6f42",
   "lastOpenFiles": [
-    "Library/Authors/Łukasz Lamża.md",
-    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
-    "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
-    "Z tabelkami, test.md",
     "Library/Authors/Daniel Kahneman.md",
     "Library/Authors/Buster Benson.md",
+    "Formatowanie zaawansowane....md",
+    "Zettelkasten/Cognitive biases.md",
+    "Zettelkasten/z szablonem.md",
+    "Przykładowe  notatki/Untitled.md",
+    "Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
+    "Templates/testowy szablon.md",
+    "README.md",
+    "Zettelkasten/Untitled.canvas",
+    "Web",
+    "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
+    "Canvas 1.canvas",
+    "2023-09-19.md",
+    "Pasted image 20230921130018.png",
+    "Pasted image 20230921123143.png",
+    "Obsidian - synchronizacja.md",
+    "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
+    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
+    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
+    "Library/Authors/Łukasz Lamża.md",
     "Synchronizacja/Untitled.canvas",
     "Library/Authors",
     "Library/Books",
     "Library",
     "Synchronizacja/Synchronizacja.md",
-    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
-    "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
-    "Zettelkasten/Cognitive biases.md",
-    "Zettelkasten/Untitled.canvas",
-    "Zettelkasten/z szablonem.md",
-    "Canvas 1.canvas",
     "Synchronizacja",
-    "Pasted image 20230921130018.png",
-    "Testowa druga notka.md",
     "Untitled.canvas",
-    "Templates/testowy szablon.md",
-    "Pasted image 20230921123143.png",
     "Templates",
-    "2023-09-19.md",
-    "Obsidian - synchronizacja.md",
-    "README.md",
     "Zettelkasten",
     "Przykładowe  notatki"
   ]

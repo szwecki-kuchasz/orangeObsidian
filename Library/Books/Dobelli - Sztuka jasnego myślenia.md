@@ -1,107 +1,543 @@
 ## Abstract
 
-The Art of Thinking Clearly is a collection of 99 short essays on common thinking errors that can lead to poor decision-making. Ranging from cognitive biases to fallacies and more, each chapter offers insights and guidance on how to avoid these pitfalls and think more clearly.
-#Opracowanie
-# Rolf Dobelli "The Art of Thinking Clearly”
+*The Art of Thinking Clearly is a collection of 99 short essays on common thinking errors that can lead to poor decision-making. Ranging from cognitive biases to fallacies and more, each chapter offers insights and guidance on how to avoid these pitfalls and think more clearly.*
+# Notatki: 2023-06-08 21:05:55 - The Art of Thinking Clearly
 
-|Notes cited|---|
-|1|[Why You Should Visit Cemeteries](https://www.notion.so/Why-You-Should-Visit-Cemeteries-a0a3f57ae80943568625023fa79e0484?pvs=21)|Survivorship Bias|::: warning Note: The following text is not yet written. :::||Survivorship bias means this: **People systematically overestimate their chances of success.**|
-|2|[Does Harvard Make You Smarter?](https://www.notion.so/Does-Harvard-Make-You-Smarter-1e5b1dac49c0416188b940bfd99e38db?pvs=21)|Swimmer’s Body Illusion|This document is a chapter in a book titled "Does Harvard Make You Smarter?" The chapter is number 2 and has been processed. It references a bias named "Swimmer's Body Illusion" and includes a quote in Polish about the concept.|||
-|3|[Why You See Shapes in the Clouds](https://www.notion.so/Why-You-See-Shapes-in-the-Clouds-334fc97733364624bcbf5e466ae5c614?pvs=21)|Clustering Illusion|**Chapter number:** 3**Processed:** No**Notes cited:** When it comes to pattern recognition, we are oversensitive.**Bias name:** Clustering Illusion||When it comes to pattern recognition, we are oversensitive.|
-|4|[If Fifty Million People Say Something Foolish, It Is Still Foolish](https://www.notion.so/If-Fifty-Million-People-Say-Something-Foolish-It-Is-Still-Foolish-c8fbbc5043a6413f9fb7306919ade326?pvs=21)|Social Proof|No instructions given.||Social proof, sometimes roughly termed the “herd instinct,” dictates that individuals feel they are behaving correctly when they act the same as other people. W. Somerset Maugham’s wise words: “If fifty million people say something foolish, it is still foolish.|
-|5|[Why You Should Forget the Past](https://www.notion.so/Why-You-Should-Forget-the-Past-c1feec73dff6427786ca563202766da0?pvs=21)|Sunk Cost Fallacy|Nazwa uprzedzenia: Efekt utopionych kosztów|||
-|6|[Don’t Accept Free Drinks](https://www.notion.so/Don-t-Accept-Free-Drinks-c90027ff629d4ffd8e73a479ba0d2698?pvs=21)|Reciprocity|**Introduction** In many social situations, it is common for someone to offer to buy you a drink. While this may seem like a kind gesture, it is important to consider the potential consequences of accepting a free drink. **The Reciprocity Bias** One reason why people may offer to buy you a drink is because of the reciprocity bias. This bias suggests that people feel obligated to return a favor or kindness that has been shown to them. By offering to buy you a drink, someone may be hoping that you will feel obligated to reciprocate in some way. **The Dangers of Accepting Free Drinks** While it may seem harmless to accept a free drink, there are several potential dangers to consider. For example, the drink could be spiked with drugs or other substances, which could lead to serious health risks. Additionally, accepting a drink from a stranger could make you more vulnerable to other forms of harm, such as theft or assault. **Conclusion** While it may be tempting to accept a free drink, it is important to consider the potential risks. By being aware of the reciprocity bias and the dangers of accepting free drinks, you can make informed decisions and stay safe in social situations. Chapter number: 6 Processed: No Bias name: Reciprocity|||
-|7|[Beware the "Special Case"](https://www.notion.so/Beware-the-Special-Case-9fce526657564475bbe6bdb8d5c0b4df?pvs=21)|Confirmation Bias (Part 1)|This document is discussing the Confirmation Bias, which is the tendency to interpret new information in a way that is compatible with our existing beliefs and theories. The internet is particularly susceptible to this bias, as we tend to read news sites and blogs that already align with our values. The document is warning against relying on self-help and get-rich-quick books, which often use cherry-picked evidence to support their claims.||The confirmation bias is the mother of all misconceptions. It is the tendency to interpret new information so that it becomes compatible with our existing theories, beliefs, and convictions. Self-help and get-rich-quick books are further examples of blinkered storytelling. Their shrewd authors collect piles of proof to pump up the most banal of theories, such as “meditation is the key to happiness.” Internet is particularly fertile ground for the confirmation bias. To stay informed, we browse news sites and blogs, forgetting that our favored pages mirror our existing values,|
-|8|[Murder Your Darlings](https://www.notion.so/Murder-Your-Darlings-8f0f1315d6c9411f9bee4c068f992360?pvs=21)|Confirmation Bias (Part 2)|This is a placeholder. Please provide instructions for me to complete the task.|||
-|9|[Don’t Bow to Authority](https://www.notion.so/Don-t-Bow-to-Authority-30027875a10e48c59e73861afa6649ff?pvs=21)|Authority Bias||||
-|10|[Leave Your Supermodel Friends at Home](https://www.notion.so/Leave-Your-Supermodel-Friends-at-Home-3f5e65d74bd84cd9b43661da611c543d?pvs=21)|Contrast Effect||||
-|11|[Why We Prefer a Wrong Map to None at All](https://www.notion.so/Why-We-Prefer-a-Wrong-Map-to-None-at-All-b32aa84afe5c495d919109143f4663bf?pvs=21)|Availability Bias|In this chapter, the author discusses the availability bias, which suggests that humans tend to form their worldview based on easily accessible examples. The author argues that this bias can lead us to prefer having a wrong map to having no map at all, because having some information is often better than having no information.||The availability bias says this: We create a picture of the world using the examples that most easily come to mind. We prefer wrong information to no information.|
-|12|[Why "No Pain, No Gain" Should Set Alarm Bells Ringing](https://www.notion.so/Why-No-Pain-No-Gain-Should-Set-Alarm-Bells-Ringing-93f4901b3d4349d59a2e6a405ab1e1a8?pvs=21)|The It’ll-Get-Worse-Before-It-Gets-Better Fallacy||||
-|13|[Even True Stories Are Fairy Tales](https://www.notion.so/Even-True-Stories-Are-Fairy-Tales-b9953f09088748a680903ebadb401f16?pvs=21)|Story Bias|This document is a book chapter titled "Even True Stories Are Fairy Tales". The chapter number is 13. It has not been processed yet. The notes cited suggest that we shape everything into meaningful stories, from personal experiences to global events. The bias of the chapter is called "Story Bias". The reader is encouraged to consider the sender's intentions and potential hidden motives when hearing stories.||From our own life stories to global events, we shape everything into meaningful stories. Whenever you hear a story, ask yourself: Who is the sender, what are his intentions, and what did he hide under the rug?|
-|14|[Why You Should Keep a Diary](https://www.notion.so/Why-You-Should-Keep-a-Diary-c080dda8753b468db1793193e59d2dd5?pvs=21)|Hindsight Bias|::: warning 👉 The following text is preliminary. :::||The hindsight bias is one of the most prevailing fallacies of all. We can aptly describe it as the “I told you so” phenomenon: In retrospect, everything seems clear and inevitable. So why is the hindsight bias so perilous? Well, it makes us believe we are better predictors than we actually are, causing us to be arrogant about our knowledge and consequently to take too much risk. Overcoming the hindsight bias is not easy. Studies have shown that people who are aware of it fall for it just as much as everyone else. So, I’m very sorry, but you’ve just wasted your time reading this chapter. If you’re still with me, I have one final tip, this time from personal rather than professional experience: Keep a journal. Write down your predictions—for political changes, your career, your weight, the stock market, and so on. Then, from time to time, compare your notes with actual developments. You will be amazed at what a poor forecaster you are.|
-|15|[Why You Systematically Overestimate Your Knowledge and Abilities](https://www.notion.so/Why-You-Systematically-Overestimate-Your-Knowledge-and-Abilities-2fe35792fabc459eb337822724aa48d0?pvs=21)|Overconfidence Effect|## Introduction This chapter discusses the overconfidence effect, which is the tendency to overestimate one's knowledge and abilities. This cognitive bias can have detrimental effects in various aspects of life, including financial decision-making, interpersonal relationships, and career development. ## Examples of Overconfidence - Johann Sebastian Bach composed over 1,100 works that survived to this day, but he may have composed even more that are now lost. Despite this, many people underestimate the number of works he composed. - In surveys, a high percentage of people tend to rate themselves as above-average in various domains, including love-making. - Even professionals can fall prey to the overconfidence effect. For example, a survey of faculty at the University of Nebraska found that 68 percent rated themselves in the top 25 percent for teaching ability. ## Conclusion The overconfidence effect can lead to poor decision-making and inaccurate self-assessments. It is important to be aware of this bias and take steps to mitigate its effects.|||
-|16|[Don’t Take News Anchors Seriously](https://www.notion.so/Don-t-Take-News-Anchors-Seriously-9b49cf2399bc422d9311f721fb1f50ab?pvs=21)|Chauffeur Knowledge|This is an excerpt from the book "The Art of Thinking Clearly" by Rolf Dobelli. It includes a story about Max Planck's chauffeur giving a lecture on quantum mechanics and a quote from Charlie Munger about staying within one's circle of competence. The bias described is "Chauffeur Knowledge."||After receiving the Nobel Prize in Physics in 1918, Max Planck went on tour across Germany. Wherever he was invited, he delivered the same lecture on new quantum mechanics. Over time, his chauffeur grew to know it by heart: “It has to be boring giving the same speech each time, Professor Planck. How about I do it for you in Munich? You can sit in the front row and wear my chauffeur’s cap. That’d give us both a bit of variety.” Planck liked the idea, so that evening the driver held a long lecture on quantum mechanics in front of a distinguished audience. Later, a physics professor stood up with a question. The driver recoiled: “Never would I have thought that someone from such an advanced city as Munich would ask such a simple question! **My chauffeur will answer it.”** One of Munger’s best pieces of advice is: “You have to stick within what I call your **circle of competence**. You have to know what youunderstand and what you don’t understand. It’s not terribly important how big the circle is. But it is terribly important that you know where the perimeter is.” True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”|
-|17|[You Control Less Than You Think](https://www.notion.so/You-Control-Less-Than-You-Think-0336d734d7a449d0aab0fb25f18465e5?pvs=21)|Illusion of Control|::: warning 👉 The following text is a quote from "You Control Less Than You Think" by Tom Vanderbilt and is cited in the document. :::||Crossing the street in Los Angeles is a tricky business, but luckily, at the press of a button, we can stop traffic. Or can we? The button’s real purpose is to make us believe we have an influence on the traffic lights, and thus we’re better able to endure the wait for the signal to change with more patience. The same goes for “door-open” and “door-close” buttons in elevators: Many are not even connected to the electrical panel. Such tricks are also designed in open-plan offices: For some people it will always be too hot, for others, too cold. Clever technicians create the illusion of control by installing fake temperature dials. This reduces energy bills—and complaints. Such ploys are called “placebo buttons” and they are being pushed in all sorts of realms.|
-|18|[Never Pay Your Lawyer by the Hour](https://www.notion.so/Never-Pay-Your-Lawyer-by-the-Hour-89e961ca4e4d46f8b5af27f82597d4e2?pvs=21)|Incentive Super-Response Tendency|This document appears to be a chapter from a book titled "Never Pay Your Lawyer by the Hour". The chapter is number 18 and is not yet processed. It includes a citation about CEO pay and a bias name of "Incentive Super-Response Tendency".||Making CEO pay public didn’t dampen the astronomical salaries; to the contrary, it pushed them upward. Nobody wants to be the loser CEO in his industry.|
-|19|[The Dubious Efficacy of Doctors, Consultants, and Psychotherapists](https://www.notion.so/The-Dubious-Efficacy-of-Doctors-Consultants-and-Psychotherapists-8bef9159a6b6434ea773ff80f82ed921?pvs=21)|Regression to Mean|::: warning 👉 The following text is preliminary. :::||brak - patrz tekst dla rekordu|
-|20|[Never Judge a Decision by Its Outcome](https://www.notion.so/Never-Judge-a-Decision-by-Its-Outcome-3a44ece439154d35a0ad850bc453d77c?pvs=21)|Outcome Bias|::: callout 💡 Uwaga! Następny tekst jest wstępny. :::||the outcome bias: We tend to evaluate decisions based on the result rather than on the decision process. This fallacy is also known as the “historian error.|
-|21|[Less Is More](https://www.notion.so/Less-Is-More-afc73eeb36ec4e1982a95f9d1f50c221?pvs=21)|Paradox of Choice|::: warning The following text is about the paradox of choice and its negative effects on decision-making and satisfaction. :::||surfeit of choices destroys quality of life. The technical term for this is the paradox of choice.|
-|22|[You Like Me, You Really, Really Like Me](https://www.notion.so/You-Like-Me-You-Really-Really-Like-Me-c6ffd48e2dfd44af86f7a2a23d935825?pvs=21)|Liking Bias||||
-|23|[Don’t Cling to Things](https://www.notion.so/Don-t-Cling-to-Things-dae106d06a624ae3826f9b79bde4f63a?pvs=21)|Endowment Effect||||
-|24|[The Inevitability of Unlikely Events](https://www.notion.so/The-Inevitability-of-Unlikely-Events-21b6a5d481f547c1b99ff7e9c569757b?pvs=21)|Coincidence|This chapter illustrates the potential for unlikely events to occur, such as the explosion of the church in Beatrice, Nebraska. Despite the fifteen members of the choir being scheduled to meet at 7:15 p.m. on March 1, 1950, they were all running late for various reasons. At 7:25 p.m., the church exploded. Although the fire chief traced the explosion back to a gas leak, members of the choir believed they had received a sign from God. This event raises the question of whether it was the hand of God or simply a coincidence.|||
-|25|[The Calamity of Conformity](https://www.notion.so/The-Calamity-of-Conformity-c89ec9e1849b4391b86ff4467e7261a3?pvs=21)|Groupthink|No instructions given.|||
-|26|[Why You’ll Soon Be Playing Mega Trillions](https://www.notion.so/Why-You-ll-Soon-Be-Playing-Mega-Trillions-8ca7772f50e24a3ea95cb592034fb10a?pvs=21)|Neglect of Probability|Mega Trillions is a popular lottery game, known for its massive jackpots that can reach into the hundreds of millions or even billions of dollars. Despite the fact that the odds of winning are extremely low, many people continue to play the game, lured in by the possibility of hitting it big. Chapter number: 26 \ Processed: Yes \ Bias name: Neglect of Probability ::: aside 👉 We respond to the expected magnitude of an event (the size of the jackpot or the amount of electricity), but not to its likelihood. **In other words: We lack an intuitive grasp of probability.** The proper term for this is neglect of probability, and it leads to errors in decision making. :::|||
-|27|[Why the Last Cookie in the Jar Makes Your Mouth Water](https://www.notion.so/Why-the-Last-Cookie-in-the-Jar-Makes-Your-Mouth-Water-8ca169ed4a404abf82a6c252564abae3?pvs=21)|Scarcity Error||||
-|28|[When You Hear Hoofbeats, Don’t Expect a Zebra](https://www.notion.so/When-You-Hear-Hoofbeats-Don-t-Expect-a-Zebra-b6228436e2504417aa36d9f903d8274d?pvs=21)|Base-Rate Neglect||||
-|29|[Why the "Balancing Force of the Universe" Is Baloney](https://www.notion.so/Why-the-Balancing-Force-of-the-Universe-Is-Baloney-c2a839dec312402fb8d84ed2fd789cc1?pvs=21)|Gambler’s Fallacy||||
-|30|[Why the Wheel of Fortune Makes Our Heads Spin](https://www.notion.so/Why-the-Wheel-of-Fortune-Makes-Our-Heads-Spin-e519e925d2154fa4bc62afbc860a9371?pvs=21)|The Anchor||||
-|31|[How to Relieve People of Their Millions](https://www.notion.so/How-to-Relieve-People-of-Their-Millions-080432393e3e4659978b418fffdbad42?pvs=21)|Induction||||
-|32|[Why Evil Is More Striking Than Good](https://www.notion.so/Why-Evil-Is-More-Striking-Than-Good-5fc23bfec253421ba1359c82953582b2?pvs=21)|Loss Aversion||||
-|33|[Why Teams Are Lazy](https://www.notion.so/Why-Teams-Are-Lazy-7150848ed25845ea97c6f4ee5757625a?pvs=21)|Social Loafing||||
-|34|[Stumped by a Sheet of Paper](https://www.notion.so/Stumped-by-a-Sheet-of-Paper-587defff9a964658ada4b4bb587ba019?pvs=21)|Exponential Growth||||
-|35|[Curb Your Enthusiasm](https://www.notion.so/Curb-Your-Enthusiasm-29cb74172bba4c6bb72954386e22cbb1?pvs=21)|Winner’s Curse|The chapter discusses the concept of the _winner's curse_, which suggests that the winner of an auction often ends up being the loser. It also includes an example scenario where two bidders are competing for a $100 bill, and explains how the winner's curse can come into play. It is important to note that the following text is preliminary.|||
-|36|[Never Ask a Writer If the Novel Is Autobiographical](https://www.notion.so/Never-Ask-a-Writer-If-the-Novel-Is-Autobiographical-269fe797d3534c38a7cba6f5a3857ecd?pvs=21)|Fundamental Attribution Error|> "Never Ask a Writer If the Novel Is Autobiographical" - Isabel Allende This quote is a warning to readers to avoid making assumptions about the author's life based on the content of their writing. While many authors draw from their own experiences when crafting stories, it is important to remember that fiction is not necessarily a direct reflection of reality. Chapter number: 36 Processed: Yes Bias name: Fundamental Attribution Error In this passage, the author suggests that humans are inherently social creatures who focus much of their attention on others. This can lead to a bias known as the fundamental attribution error, in which we attribute the behavior of others to their personality or character rather than to external factors or circumstances.|||
-|37|[Why You Shouldn’t Believe in the Stork](https://www.notion.so/Why-You-Shouldn-t-Believe-in-the-Stork-14bb297b45ec4d6f8d86eab488b3bc7c?pvs=21)|False Causality||||
-|38|[Why Attractive People Climb the Career Ladder More Quickly](https://www.notion.so/Why-Attractive-People-Climb-the-Career-Ladder-More-Quickly-2ae8a21f79e74547a81cc7958a337bb7?pvs=21)|Halo Effect||||
-|39|[Congratulations! You’ve Won Russian Roulette](https://www.notion.so/Congratulations-You-ve-Won-Russian-Roulette-244f6f9f0ca84377a9c9c22c9b9dca42?pvs=21)|Alternative Paths||||
-|40|[False Prophets](https://www.notion.so/False-Prophets-87d43d3a6a04401c86779c248e35620c?pvs=21)|Forecast Illusion|This passage discusses the results of Philip Tetlock's evaluation of self-appointed professionals' predictions. The experts only performed slightly better than a random forecast generator, with the worst performers being those who made doom-and-gloom predictions about the collapse of various countries that never came to pass. The passage ends with a quote from economist John Kenneth Galbraith about the two types of forecasters.|||
-|41|[The Deception of Specific Cases](https://www.notion.so/The-Deception-of-Specific-Cases-d1794fd951db43b38534b059d22798aa?pvs=21)|Conjunction Fallacy||||
-|42|[It’s Not What You Say, but How You Say It](https://www.notion.so/It-s-Not-What-You-Say-but-How-You-Say-It-84765fcd69e649b8a4405d175637c2af?pvs=21)|Framing||||
-|43|[Why Watching and Waiting Is Torture](https://www.notion.so/Why-Watching-and-Waiting-Is-Torture-40cf1795e19a441f92d4326ebfe77a81?pvs=21)|Action Bias||||
-|44|[Why You Are Either the Solution—or the Problem](https://www.notion.so/Why-You-Are-Either-the-Solution-or-the-Problem-6a476c16313b45729a5a3abc4f357ff0?pvs=21)|Omission Bias||||
-|45|[Don’t Blame Me](https://www.notion.so/Don-t-Blame-Me-64c5de2819094256820e4d0e2ed3e5dd?pvs=21)|Self-Serving Bias||||
-|46|[Be Careful What You Wish For](https://www.notion.so/Be-Careful-What-You-Wish-For-40f39e1dcdfa46ad80427ac57ada24a0?pvs=21)|Hedonic Treadmill||||
-|47|[Do Not Marvel at Your Existence](https://www.notion.so/Do-Not-Marvel-at-Your-Existence-9f120a68438c4d08964641ba71616409?pvs=21)|Self-Selection Bias||||
-|48|[Why Experience Can Damage Your Judgment](https://www.notion.so/Why-Experience-Can-Damage-Your-Judgment-fa85735c1a0f4682855f9a63869a13d0?pvs=21)|Association Bias||||
-|49|[Be Wary When Things Get Off to a Great Start](https://www.notion.so/Be-Wary-When-Things-Get-Off-to-a-Great-Start-b130709d63da490ab861632e632477fa?pvs=21)|Beginner’s Luck||||
-|50|[Sweet Little Lies](https://www.notion.so/Sweet-Little-Lies-de9b1d5cb2e047eb9f8fb57c6da711c3?pvs=21)|Cognitive Dissonance||||
-|51|[Live Each Day as If It Were Your Last—but Only on Sundays](https://www.notion.so/Live-Each-Day-as-If-It-Were-Your-Last-but-Only-on-Sundays-6825bad87047431b830c30c80a746a41?pvs=21)|Hyperbolic Discounting||||
-|52|[Any Lame Excuse](https://www.notion.so/Any-Lame-Excuse-8ba5071c9135497bb9592827784fe4c6?pvs=21)|“Because" Justification||||
-|53|[Decide Better—Decide Less](https://www.notion.so/Decide-Better-Decide-Less-588ebd7aadd9462d988a6513a5e27f62?pvs=21)|Decision Fatigue|The text in this chapter explores the concept of decision fatigue and how it can impact the quality of decisions. The chapter includes a quote in Polish, which translates to "Hungry judges give higher sentences!" The author also makes a comparison between spiritual strength and a battery, suggesting that both have a limited capacity.|||
-|54|[Would You Wear Hitler’s Sweater?](https://www.notion.so/Would-You-Wear-Hitler-s-Sweater-8aa67fd846da43338f28be944329aea7?pvs=21)|Contagion Bias|::: warning 👉 The following text is preliminary. :::|||
-|55|[Why There Is No Such Thing as an Average War](https://www.notion.so/Why-There-Is-No-Such-Thing-as-an-Average-War-794f5e98fafe4bcdab785cfb94eedc48?pvs=21)|The Problem with Averages||||
-|56|[How Bonuses Destroy Motivation](https://www.notion.so/How-Bonuses-Destroy-Motivation-6d0e7f6529bd4bf2b36644b083be1c71?pvs=21)|Motivation Crowding||||
-|57|[If You Have Nothing to Say, Say Nothing](https://www.notion.so/If-You-Have-Nothing-to-Say-Say-Nothing-8e720a6df48243d382b45b7aaa7fab1f?pvs=21)|Twaddle Tendency||||
-|58|[How to Increase the Average IQ of Two States](https://www.notion.so/How-to-Increase-the-Average-IQ-of-Two-States-4c5bdd8fa16b4358ba845cd9a4dc5c4d?pvs=21)|Will Rogers Phenomenon||||
-|59|[If You Have an Enemy, Give Him Information](https://www.notion.so/If-You-Have-an-Enemy-Give-Him-Information-372621ed74754a338e7afa7d1e993077?pvs=21)|Information Bias||||
-|60|[Hurts So Good](https://www.notion.so/Hurts-So-Good-5148eb3c71a44041bc151ddffee0169c?pvs=21)|Effort Justification||||
-|61|[Why Small Things Loom Large](https://www.notion.so/Why-Small-Things-Loom-Large-7fe508a3017e46018d42018a2332326d?pvs=21)|The Law of Small Numbers||||
-|62|[Handle with Care](https://www.notion.so/Handle-with-Care-661d75145dd54f84a29c5c7ab45d9a5b?pvs=21)|Expectations||||
-|63|[Speed Traps Ahead!](https://www.notion.so/Speed-Traps-Ahead-eb55167f98c2445cb5bd6967f71a7bb0?pvs=21)|Simple Logic||||
-|64|[How to Expose a Charlatan](https://www.notion.so/How-to-Expose-a-Charlatan-4ce73a6e27fc4da08d7d57b203d7fcf4?pvs=21)|Forer Effect||||
-|65|[Volunteer Work Is for the Birds](https://www.notion.so/Volunteer-Work-Is-for-the-Birds-5e40c71a2afb48cabe0f68cf21bd5ee1?pvs=21)|Volunteer’s Folly||||
-|66|[Why You Are a Slave to Your Emotions](https://www.notion.so/Why-You-Are-a-Slave-to-Your-Emotions-d0c16cb11874437a9d1c2e522730156a?pvs=21)|Affect Heuristic||||
-|67|[Be Your Own Heretic](https://www.notion.so/Be-Your-Own-Heretic-c593654b6677490984c5424e88b75c0e?pvs=21)|Introspection Illusion||||
-|68|[Why You Should Set Fire to Your Ships](https://www.notion.so/Why-You-Should-Set-Fire-to-Your-Ships-e2d18f24f02e403eab0b82a61c4a7078?pvs=21)|Inability to Close Doors||||
-|69|[Disregard the Brand New](https://www.notion.so/Disregard-the-Brand-New-f1594faa3b5f4f7da62593d1cdcf6c67?pvs=21)|Neomania||||
-|70|[Why Propaganda Works](https://www.notion.so/Why-Propaganda-Works-253649fad8fd4887aff7efcd4884c8dc?pvs=21)|Sleeper Effect||||
-|71|[Why It’s Never Just a Two-Horse Race](https://www.notion.so/Why-It-s-Never-Just-a-Two-Horse-Race-fe7e7d848fed4eda9dd11496d170847a?pvs=21)|Alternative Blindness||||
-|72|[Why We Take Aim at Young Guns](https://www.notion.so/Why-We-Take-Aim-at-Young-Guns-46732cc67846413da1e03d15c9e11937?pvs=21)|Social Comparison Bias||||
-|73|[Why First Impressions Are Deceiving](https://www.notion.so/Why-First-Impressions-Are-Deceiving-bc7879b4394843cbbd33a383868eec61?pvs=21)|Primacy and Recency Effects||||
-|74|[Why You Can’t Beat Homemade](https://www.notion.so/Why-You-Can-t-Beat-Homemade-61d82b890bde41feb192d29b74faad98?pvs=21)|Not-Invented-Here Syndrome||||
-|75|[How to Profit from the Implausible](https://www.notion.so/How-to-Profit-from-the-Implausible-0fa9abf9290141f58f20556e285cbb3e?pvs=21)|The Black Swan||||
-|76|[Knowledge Is Nontransferable](https://www.notion.so/Knowledge-Is-Nontransferable-31184b7b79bd42e4b49c40a0e3490089?pvs=21)|Domain Dependence||||
-|77|[The Myth of Like-Mindedness](https://www.notion.so/The-Myth-of-Like-Mindedness-e60f1a26425744d1a04a415d307a7648?pvs=21)|False-Consensus Effect||||
-|78|[You Were Right All Along](https://www.notion.so/You-Were-Right-All-Along-66be8c1451e94e198e9aeaee59fc044d?pvs=21)|Falsification of History||||
-|79|[Why You Identify with Your Football Team](https://www.notion.so/Why-You-Identify-with-Your-Football-Team-4f83d808e64a483dbfdaf26a17f7ac55?pvs=21)|In-Group Out-Group Bias||||
-|80|[The Difference between Risk and Uncertainty](https://www.notion.so/The-Difference-between-Risk-and-Uncertainty-40651d0305a14451af928e6e74a70d58?pvs=21)|Ambiguity Aversion||||
-|81|[Why You Go with the Status Quo](https://www.notion.so/Why-You-Go-with-the-Status-Quo-0e0e0752c5564ef6955c0d297be0e5f7?pvs=21)|Default Effect||||
-|82|[Why "Last Chances" Make Us Panic](https://www.notion.so/Why-Last-Chances-Make-Us-Panic-4a8acab25d464bf3a4ab08130542bd78?pvs=21)|Fear of Regret||||
-|83|[How Eye-Catching Details Render Us Blind](https://www.notion.so/How-Eye-Catching-Details-Render-Us-Blind-759cc4891c424c398084b30cb9f5e995?pvs=21)|Salience Effect||||
-|84|[Why Money Is Not Naked](https://www.notion.so/Why-Money-Is-Not-Naked-e01f5ce97cc044d9887f2ea87d9fc089?pvs=21)|House-Money Effect||||
-|85|[Why New Year’s Resolutions Don’t Work](https://www.notion.so/Why-New-Year-s-Resolutions-Don-t-Work-f4d79e0ea7f84fe4b08971dbac73bd7c?pvs=21)|Procrastination||||
-|86|[Build Your Own Castle](https://www.notion.so/Build-Your-Own-Castle-7dc5aa9bc998475083dfe4a4325effb3?pvs=21)|Envy||||
-|87|[Why You Prefer Novels to Statistics](https://www.notion.so/Why-You-Prefer-Novels-to-Statistics-5c4029b03cad40828c30f70295914e7d?pvs=21)|Personification||||
-|88|[You Have No Idea What You Are Overlooking](https://www.notion.so/You-Have-No-Idea-What-You-Are-Overlooking-120d4fb76b724e25804d9a7cb7778dca?pvs=21)|Illusion of Attention||||
-|89|[Hot Air](https://www.notion.so/Hot-Air-15e7dd0b3df04c9588d7cba83210cba0?pvs=21)|Strategic Misrepresentation||||
-|90|[Where’s the Off Switch?](https://www.notion.so/Where-s-the-Off-Switch-84726a169fc24101a790d485b4d9bb08?pvs=21)|Overthinking||||
-|91|[Why You Take On Too Much](https://www.notion.so/Why-You-Take-On-Too-Much-73bc0c5fbada409db5a6e168f2866dbb?pvs=21)|Planning Fallacy|The planning fallacy is a cognitive bias that causes people to underestimate the time, cost, and resources required to complete a task or project. The example of the Sydney Opera House highlights the potential consequences of this bias. It is important to recognize and account for the planning fallacy in order to avoid taking on too much and underestimating the effort required to complete a task or project. Chapter number: 91 Processed: No Bias name: Planning Fallacy **The conch-shaped Sydney Opera House was planned in 1957: Completion was due in 1963 at a cost of $7 million. It finally opened its doors in 1973 after $102 million had been pumped in—fourteen times the original estimate!**|||
-|92|[Those Wielding Hammers See Only Nails](https://www.notion.so/Those-Wielding-Hammers-See-Only-Nails-edb1c9d6758f4c54a816b72fcfeecc46?pvs=21)|Déformation Professionnelle||||
-|93|[Mission Accomplished](https://www.notion.so/Mission-Accomplished-0d60d6f132be4fc1816919deada7f0ea?pvs=21)|Zeigarnik Effect||||
-|94|[The Boat Matters More Than the Rowing](https://www.notion.so/The-Boat-Matters-More-Than-the-Rowing-f91af5145c5841ea9afd9184a3535c3d?pvs=21)|Illusion of Skill||||
-|95|[Why Checklists Deceive You](https://www.notion.so/Why-Checklists-Deceive-You-cabd85d2fc794b4d8a7bafae82ea64f3?pvs=21)|Feature-Positive Effect||||
-|96|[Drawing the Bull’s-Eye around the Arrow](https://www.notion.so/Drawing-the-Bull-s-Eye-around-the-Arrow-7bc352505d4c45dca37a324fcad67496?pvs=21)|Cherry Picking||||
-|97|[The Stone Age Hunt for Scapegoats](https://www.notion.so/The-Stone-Age-Hunt-for-Scapegoats-bfd59b9005084bf0a904f1fa0f6de3f2?pvs=21)|Fallacy of the Single Cause||||
-|98|[Why Speed Demons Appear to Be Safer Drivers](https://www.notion.so/Why-Speed-Demons-Appear-to-Be-Safer-Drivers-1d85303f5d5a4532b1e34a6ad02aab96?pvs=21)|Intention-to-Treat Error||||
-|99|[Why You Shouldn’t Read the News](https://www.notion.so/Why-You-Shouldn-t-Read-the-News-455c139f9e784ff5adbe14a1e28235b0?pvs=21)|News Illusion||||
+Rolf Dobelli
 
+14
+
+Survivorship bias means this: People systematically overestimate their chances of success.
+
+20
+
+When it comes to pattern recognition, we are oversensitive.
+
+21
+
+Social proof, sometimes roughly termed the “herd instinct,” dictates that individuals feel they are behaving correctly when they act the same as other people.
+
+23
+
+W. Somerset Maugham’s wise words: “If fifty million people say something foolish, it is still foolish.
+
+30
+
+“Facts do not cease to exist because they are ignored,” said writer Aldous Huxley.
+
+30
+
+The confirmation bias is the mother of all misconceptions. It is the tendency to interpret new information so that it becomes compatible with our existing theories, beliefs, and convictions.
+
+34
+
+Self-help and get-rich-quick books are further examples of blinkered storytelling. Their shrewd authors collect piles of proof to pump up the most banal of theories, such as “meditation is the key to happiness.”
+
+35
+
+Internet is particularly fertile ground for the confirmation bias. To stay informed, we browse news sites and blogs, forgetting that our favored pages mirror our existing values,
+
+42
+
+The availability bias says this: We create a picture of the world using the examples that most easily come to mind.
+
+44
+
+We prefer wrong information to no information.
+
+50
+
+From our own life stories to global events, we shape everything into meaningful stories.
+
+50
+
+Whenever you hear a story, ask yourself: Who is the sender, what are his intentions, and what did he hide under the rug?
+
+51
+
+The hindsight bias is one of the most prevailing fallacies of all. We can aptly describe it as the “I told you so” phenomenon: In retrospect, everything seems clear and inevitable.
+
+52
+
+So why is the hindsight bias so perilous? Well, it makes us believe we are better predictors than we actually are, causing us to be arrogant about our knowledge and consequently to take too much risk.
+
+53
+
+Overcoming the hindsight bias is not easy. Studies have shown that people who are aware of it fall for it just as much as everyone else. So, I’m very sorry, but you’ve just wasted your time reading this chapter.
+
+53
+
+If you’re still with me, I have one final tip, this time from personal rather than professional experience: Keep a journal. Write down your predictions—for political changes, your career, your weight, the stock market, and so on. Then, from time to time, compare your notes with actual developments. You will be amazed at what a poor forecaster you are.
+
+57
+
+After receiving the Nobel Prize in Physics in 1918, Max Planck went on tour across Germany. Wherever he was invited, he delivered the same lecture on new quantum mechanics. Over time, his chauffeur grew to know it by heart: “It has to be boring giving the same speech each time, Professor Planck. How about I do it for you in Munich? You can sit in the front row and wear my chauffeur’s cap. That’d give us both a bit of variety.” Planck liked the idea, so that evening the driver held a long lecture on quantum mechanics in front of a distinguished audience. Later, a physics professor stood up with a question. The driver recoiled: “Never would I have thought that someone from such an advanced city as Munich would ask such a simple question! My chauffeur will answer it.”
+
+59
+
+One of Munger’s best pieces of advice is: “You have to stick within what I call your circle of competence. You have to know what you understand and what you don’t understand. It’s not terribly important how big the circle is. But it is terribly important that you know where the perimeter is.”
+
+59
+
+True experts recognize the limits of what they know and what they do not know. If they find themselves outside their circle of competence, they keep quiet or simply say, “I don’t know.”
+
+61
+
+Crossing the street in Los Angeles is a tricky business, but luckily, at the press of a button, we can stop traffic. Or can we? The button’s real purpose is to make us believe we have an influence on the traffic lights, and thus we’re better able to endure the wait for the signal to change with more patience. The same goes for “door-open” and “door-close” buttons in elevators: Many are not even connected to the electrical panel. Such tricks are also designed in open-plan offices: For some people it will always be too hot, for others, too cold. Clever technicians create the illusion of control by installing fake temperature dials. This reduces energy bills—and complaints. Such ploys are called “placebo buttons” and they are being pushed in all sorts of realms.
+
+64
+
+Making CEO pay public didn’t dampen the astronomical salaries; to the contrary, it pushed them upward. Nobody wants to be the loser CEO in his industry.
+
+70
+
+the outcome bias: We tend to evaluate decisions based on the result rather than on the decision process. This fallacy is also known as the “historian error.
+
+73
+
+surfeit of choices destroys quality of life. The technical term for this is the paradox of choice.  
+In his book of the same title, psychologist Barry Schwartz describes why this is so. First, a large selection leads to inner paralysis.
+
+73
+
+Second, a broader selection leads to poorer decisions.
+
+73
+
+a supermarket set up a stand where customers could sample twenty-four varieties of jelly. They could try as many as they liked and then buy them at a discount. The next day, the owners carried out the same experiment with only six flavors. The result? They sold ten times more jelly on day two. Why? With such a wide range, customers could not come to a decision, so they bought nothing. The experiment was repeated several times with different products. The results were always the same.
+
+74
+
+Finally, large selection leads to discontent. How can you be sure you are making the right choice when two hundred options surround and confound you? The answer is: You cannot. The more choice you have, the more unsure and therefore dissatisfied you are afterward.
+
+81
+
+At 7:15 p.m. on March 1, 1950, the fifteen members of the church choir in Beatrice, Nebraska, were scheduled to meet for rehearsal. For various reasons, they were all running late. The minister’s family was delayed because his wife still had to iron their daughter’s dress. One couple was held back when their car wouldn’t start. The pianist wanted to be there thirty minutes early, but he fell into a deep sleep after dinner. And so on. At 7:25 p.m., the church exploded. The blast was heard all around the village. It blew out the walls and sent the roof crashing to the ground. Miraculously, nobody was killed. The fire chief traced the explosion back to a gas leak, even though members of the choir were convinced they had received a sign from God. Hand of God or coincidence?
+
+85
+
+Psychology professor Irving Janis has studied many fiascoes. He concluded that they share the following pattern: Members of a close-knit group cultivate team spirit by (unconsciously) building illusions. One of these fantasies is a belief in invincibility: “If both our leader [in this case, Kennedy] and the group are confident that the plan will work, then luck will be on our side.” Next comes the illusion of unanimity: If the others are of the same opinion, any dissenting view must be wrong. No one wants to be the naysayer that destroys team unity. Finally, each person is happy to be part of the group. Expressing reservations could mean exclusion from it. In our evolutionary past, such banishment guaranteed death; hence our strong urge to remain in the group’s favor.  
+Groupthink is no stranger in the business world.
+
+86
+
+If you ever find yourself in a tight, unanimous group, you must speak your mind, even if your team does not like it. Question tacit assumptions, even if you risk expulsion from the warm nest. And, if you lead a group, appoint someone as devil’s advocate. She will not be the most popular member of the team, but she might be the most important.
+
+88
+
+we respond to the expected magnitude of an event (the size of the jackpot or the amount of electricity), but not to its likelihood. In other words: We lack an intuitive grasp of probability.  
+The proper term for this is neglect of probability, and it leads to errors in decision making.
+
+115
+
+when companies buy other companies—the infamous mergers and acquisitions—the winner’s curse is present more often than not. Astoundingly, more than half of all acquisitions destroy value, according to a McKinsey study.
+
+116
+
+In conclusion: Accept this piece of wisdom about auctions from Warren Buffett: “Don’t go.” If you happen to work in an industry where they are inevitable, set a maximum price and deduct 20 percent from this to offset the winner’s curse. Write this number on a piece of paper and don’t go a cent over it.
+
+116
+
+So how much would you pay for $100? Imagine that you and an opponent are invited to take part in such an auction. The rules: Whoever makes the highest offer gets the $100 bill, and—most important—when this happens, both bidders have to pay their final offer. How high will you go? From your perspective, it makes sense to pay $20, $30, or $40. Your opponent does the same. Even $99 seems like a reasonable offer for a $100 bill. Now, your competitor offers $100. If this remains the highest bid, he will come away breaking even (paying $100 for $100), whereas you will simply have to cough up $99. So you continue to bid. At $110, you have a guaranteed loss of $10, but your opponent would have to shell out $109 (his last bid). So he will continue playing. When do you stop? When will your competitor give up? Try it out with friends.
+
+119
+
+our lives depended on and revolved around others, which explains why we are so obsessed with our fellow humans today. The result of this infatuation is that we spend about 90 percent of our time thinking about other people and dedicate just 10 percent to assessing other factors and contexts.
+
+129
+
+Philip Tetlock. Over a period of ten years, he evaluated 28,361 predictions from 284 self-appointed professionals. The result: In terms of accuracy, the experts fared only marginally better than a random forecast generator. Ironically, the media darlings were among the poorest performers; and of those, the worst were the prophets of doom and disintegration. Examples of their far-fetched forecasts included the collapse of Canada, Nigeria, China, India, Indonesia, South Africa, Belgium, and the EU. None of these countries has imploded.
+
+129
+
+“There are two kinds of forecasters: those who don’t know, and those who don’t know they don’t know,” wrote Harvard economist John Kenneth Galbraith.
+
+132
+
+The conjunction fallacy is at play when such a subset seems larger than the entire set—which by definition cannot be the case. Amos Tversky and Nobel laureate Daniel Kahneman have studied this extensively.  
+We are easy prey for the conjunction fallacy because we have an innate attraction to “harmonious” or “plausible” stories.
+
+Eksperyment "Linda"
+
+134
+
+Kahneman believes that two types of thinking exist: The first kind is intuitive, automatic, and direct. The second is conscious, rational, slow, laborious, and logical. Unfortunately, intuitive thinking draws conclusions long before the conscious mind does.
+
+134
+
+In conclusion: Forget about left brains and right brains: The difference between intuitive and conscious thinking is much more significant. With important decisions, remember that, at the intuitive level, we have a soft spot for plausible stories. Therefore, be on the lookout for convenient details and happy endings. Remember: If an additional condition has to be met, no matter how plausible it sounds, it will become less, not more, likely.
+
+135
+
+Bookmark
+
+136
+
+“Glossing” is a popular type of framing. Under its rules, a tumbling share price becomes a “correction.” An overpaid acquisition price is branded “goodwill.” In every management course, a problem magically transforms into an “opportunity” or a “challenge.” A person who is fired is “reassessing his career.” A fallen soldier—regardless of how much bad luck or stupidity led to his death—turns into a “war hero.” Genocide translates to “ethnic cleansing.” A successful emergency landing, for example on the Hudson River, is celebrated as a “triumph of aviation.”
+
+Glossing - wyjaśnianie, połysk, korzystne światło
+
+136
+
+Researchers presented a group of people with two kinds of meat, “99 percent fat free” and “1 percent fat,” and asked them to choose which was healthier. Can you guess which they picked? Bingo: Respondents ranked the first type of meat as healthier, even though both were identical. Next came the choice between “98 percent fat free” and “1 percent fat.” Again, most respondents chose the first option—despite its higher fat content.
+
+138
+
+This is the action bias: Look active, even if it achieves nothing.  
+This study comes from the Israeli researcher Michael Bar-Eli, who evaluated hundreds of penalty shoot-outs.
+
+Bramkarze przy karnych
+
+139
+
+Lightning-fast reactions were essential to survival; deliberation could be fatal. When our ancestors saw a silhouette appear at the edge of the forest—something that looked a lot like a saber-toothed tiger—they did not take a pew to muse over what it might be. They hit the road—and fast. We are the descendants of these quick responders. Back then, it was better to run away once too often. However, our world today is different; it rewards reflection, even though our instincts may suggest otherwise.
+
+140
+
+“All of humanity’s problems stem from man’s inability to sit quietly in a room alone,” wrote Blaise Pascal. At home, in his study.
+
+141
+
+This feeling is called the omission bias. It crops up where both action and inaction lead to cruel consequences. In such cases, we tend to prefer inaction; its results seem more anodyne.
+
+142
+
+Active euthanasia, even if it is the explicit wish of the dying, is punishable by law, whereas deliberate refusal of lifesaving measures is legal (for example, following so-called DNR orders—do not resuscitate).
+
+144
+
+We attribute success to ourselves and failures to external factors. This is the self-serving bias.
+
+146
+
+In married couples, the same thing happens: It’s been shown that both men and women overestimate their contribution to the health of the marriage. Each assumes their input is more than 50 percent.
+
+146
+
+how can we dodge the self-serving bias? Do you have friends who tell you the truth—no holds barred? If so, consider yourself lucky. If not, do you have at least one enemy? Good. Invite him or her over for coffee and ask for an honest opinion about your strengths and weaknesses. You will be forever grateful you did.
+
+146
+
+I decided to ask them separately how often they take out the trash. One said he did it every second time. Another: every third time. Roommate number 3, cursing because his garbage bag had split, reckoned he did it pretty much every time, say 90 percent. Although their answers should have added up to 100 percent, these boys achieved an impressive 320 percent! The five systematically overestimated their roles—
+
+151
+
+Whenever we complain about bad luck, we must be wary of the so-called self-selection bias.
+
+160
+
+Leon Festinger and James M. Carlsmith of Stanford University once asked their students to carry out an hour of excruciatingly boring tasks. They then divided the subjects into two groups. Each student in group A received a dollar (it was 1959) and instructions to wax lyrical about the work to another student waiting outside—in other words, to lie. The same was asked of the students in group B, with one difference: They were given $20 for the task. Later, the students had to divulge how they really found the monotonous work. Interestingly, those who received only a dollar rated it as significantly more enjoyable and interesting. Why? One measly dollar was not enough for them to lie outright; instead they convinced themselves that the work was not that bad. Just as Aesop’s fox reinterpreted the situation, so did they. The students who received more didn’t have to justify anything. They had lied and netted $20 for it—a fair deal. They experienced no cognitive dissonance.
+
+163
+
+Hyperbolic discounting, the fact that immediacy magnetizes us, is a remnant of our animal past. Animals will never turn down an instant reward in order to attain more in the future. You can train rats as much as you like; they’re never going to give up a piece of cheese today to get two pieces tomorrow.
+
+182
+
+the former CEO of General Electric Jack Welch. He once said in an interview: “You would not believe how difficult it is to be simple and clear. People are afraid that they may be seen as a simpleton. In reality, just the opposite is true.
+
+182
+
+Verbal expression is the mirror of the mind. Clear thoughts become clear statements, whereas ambiguous ideas transform into vacant ramblings. The trouble is that, in many cases, we lack very lucid thoughts.
+
+184
+
+the Will Rogers phenomenon, named after an American comedian from Oklahoma. He is said to have joked that Oklahomans who pack up and move to California raise both states’ average IQ.
+
+188
+
+Forget trying to amass all the data. Do your best to get by with the bare facts. It will help you make better decisions. Superfluous knowledge is worthless, whether you know it or not. The historian Daniel J. Boorstin put it right: “The greatest obstacle to discovery is not ignorance—it is the illusion of knowledge.” And next time you are confronted by a rival, consider killing him—not with kindness but with reams of data and analysis.
+
+189
+
+effort justification. When you put a lot of energy into a task, you tend to overvalue the result.
+
+190
+
+A mild form of effort justification is the so-called IKEA effect. Furniture that we assemble ourselves seems more valuable than any expensive designer piece. The same goes for hand-knitted socks.
+
+191
+
+Now that you know about effort justification, you can rate your projects more objectively. Try it out: Whenever you have invested a lot of time and effort into something, stand back and examine the result—only the result.
+
+196
+
+In 1965, the American psychologist Robert Rosenthal conducted a noteworthy experiment in various schools. Teachers were told of a (fake) new test that could identify students who were on the verge of an intellectual spurt—so-called bloomers. Twenty percent of students were randomly selected and classified as such. Teachers remained under the impression that these were indeed high-potential students.
+
+198
+
+Thousands of people have taken this Cognitive Reflection Test (CRT), which professor Shane Frederick developed.
+
+198
+
+First question: In a department store, a Ping-Pong paddle and a plastic ball cost $1.10. If the paddle costs $1 more, how much is the ball? Second question: In a textile factory, five machines take exactly five minutes to make five shirts. How many minutes will it take one hundred machines to produce one hundred shirts? And, the third question: A pond has water lilies growing in it. The flowers multiply quickly, each day doubling the area they take up. If it takes forty-eight days for the pond to be completely covered with water lilies, how many days will it take for it to be half covered?
+
+202
+
+The Forer effect explains why the pseudosciences work so well—astrology, astrotherapy, the study of handwriting, biorhythm analysis, palmistry, tarot card readings, and séances with the dead.  
+What’s behind the Forer effect? First, the majority of statements in Forer’s passage are so general that they relate to everyone: “Sometimes you seriously doubt your actions.” Who doesn’t? Second, we tend to accept flattering statements that don’t apply to us: “You are proud of your independent thinking.” Obviously! Who sees himself or herself as a mindless follower? Third, the so-called feature-positive effect plays a part: The text contains no negative statements; it states only what we are, even though the absence of characteristics is an equally important part of a person’s makeup. Fourth, the father of all the fallacies, the confirmation bias: We accept whatever corresponds to our self-image and unconsciously filter everything else out. What remains is a coherent portrait.
+
+217
+
+How will the world look in fifty years? In his latest book, Antifragile, Nassim Taleb gives us a clue: Assume that most of the technology that has existed for the past fifty years will serve us for another half century. And assume that recent technology will be passé in a few years’ time.
+
+229
+
+If you have an opinion, don’t hesitate airing it first.
+
+230
+
+In conclusion: First and last impressions dominate, meaning the content sandwiched between has only a weak influence. Try to avoid evaluations based on first impressions. They will deceive you, guaranteed, in one way or another. Try to assess all aspects impartially. It’s not easy, but there are ways around it.
+
+240
+
+We frequently overestimate unanimity with others, believing that everyone else thinks and feels exactly like we do. This fallacy is called the false-consensus effect.
+
+241
+
+The false-consensus effect is fascinating for yet another reason. If people do not share our opinions, we categorize them as “abnormal.”
+
+242
+
+With the false-consensus effect, no outside influences are involved. Despite this, it still has a social function, which is why evolution didn’t eliminate it. Our brain is not built to recognize the truth; instead, its goal is to leave behind as many offspring as possible. Whoever seemed courageous and convincing (thanks to the false-consensus effect) created a positive impression, attracted a disproportionate amount of resources, and thus increased their chances of passing on their genes to future generations. Doubters were less sexy.
+
+243
+
+In 1973, U.S. political scientist Gregory Markus asked three thousand people to share their opinions on controversial political issues, such as the legalization of drugs. Their responses ranged from “fully agree” to “completely disagree.” Ten years later, he interviewed them again on the same topics, and also asked what they had replied ten years previously. The result: What they recalled disclosing in 1973 was almost identical to their present-day views—and a far cry from their original responses.
+
+245
+
+Ulric Neisser, one of the pioneers in the field of cognitive science, investigated them: In 1986, the day after the explosion of the Challenger space shuttle, he asked students to write essays detailing their reactions. Three years later, he interviewed them again. Less than 7 percent of the new data correlated with the initial submissions. In fact, 50 percent of the recollections were incorrect in two-thirds of the points, and 25 percent failed to match even a single detail. Neisser took one of these conflicting papers and presented it to its owner. Her answer: “I know it’s my handwriting, but I couldn’t have written this.
+
+245
+
+It is safe to assume that half of what you remember is wrong.
+
+247
+
+First, groups often form based on minor, even trivial, criteria.
+
+247
+
+Second, you perceive people outside your own group to be more similar than they actually are. This is called the “out-group homogeneity bias.
+
+247
+
+British psychologist Henri Tajfel split strangers into groups, tossing a coin to choose who went to which group. He told the members of one group it was because they all liked a particular type of art. The results were impressive: Although (a) they were strangers, (b) they were allocated a group at random, and (c) they were far from art connoisseurs, the group members found each other more agreeable than members of other groups.
+
+248
+
+Third, since groups often form on the basis of common values, group members receive a disproportionate amount of support for their own views. This distortion is dangerous, especially in business: It leads to the infamous organizational blindness.
+
+249
+
+Ellsberg Paradox offers empirical proof that we favor known probabilities (box A) over unknown ones (box B).
+
+265
+
+Willpower is like a battery, at least in the short term. If it is depleted, future challenges will falter.  
+This is a fundamental insight. Self-control is not available around the clock. It needs time to refuel. The good news: To achieve this, all you need to do is refill your blood sugar and kick back and relax.
+
+266
+
+Dan Ariely found that dates stipulated by external authorities—for example, a teacher or the IRS—work best. Self-imposed deadlines will work only if the task is broken down step-by-step, with each part assigned its own due date.
+
+271
+
+You would think that people’s generosity would grow if they knew the extent of the disaster. But we do not function like that. Statistics don’t stir us; people do.  
+The media has long known that factual reports and bar charts do not entice readers. Hence the guideline: Give the story a face.
+
+277
+
+Most vulnerable to strategic misrepresentation are mega-projects, where (a) accountability is diffuse (for example, if the administration that commissioned the project is no longer in power), (b) many businesses are involved, leading to mutual finger-pointing, or (c) the end date is a few years down the road.
+
+277
+
+strategic misrepresentation: the more at stake, the more exaggerated your assertions become.
+
+280
+
+if you think too much, you cut off your mind from the wisdom of your feelings. This may sound a little esoteric—and a bit surprising coming from someone like me who strives to rid my thinking of irrationality—but it is not. Emotions form in the brain, just as crystal-clear, rational thoughts do. They are merely a different form of information processing—more primordial, but not necessarily an inferior variant. In fact, sometimes they provide the wiser counsel.
+
+281
+
+When do you listen to your head and when do you heed your gut? A rule of thumb might be: If it is something to do with practiced activities, such as motor skills (think of the centipede, Van de Velde, or mastering a musical instrument) or questions you’ve answered a thousand times (think of Warren Buffett’s “circle of competence”), it’s better not to reflect to the last detail. It undermines your intuitive ability to solve problems.
+
+281
+
+With complex matters, though, such as investment decisions, sober reflection is indispensable. Evolution has not equipped us for such considerations, so logic trumps intuition.
+
+281
+
+For such purposes, we have heuristics, mental shortcuts that are clearly superior to rational thought.
+
+283
+
+Sydney Opera House was planned in 1957: Completion was due in 1963 at a cost of $7 million. It finally opened its doors in 1973 after $102 million had been pumped in—fourteen times the original estimate!
+
+283
+
+The planning fallacy is particularly evident when people work together—in business, science, and politics. Groups overestimate duration and benefits and systematically underestimate costs and risks.
+
+284
+
+psychologist Gary Klein recommends delivering this short speech to the assembled team: “Imagine it is a year from today. We have followed the plan to the letter. The result is a disaster. Take five or ten minutes to write about this disaster.”
+
+pre mortem
+
+285
+
+“If your only tool is a hammer, all your problems will be nails,” said Mark Twain—a quote that sums up the déformation professionnelle perfectly.
+
+288
+
+once we’ve completed a task and checked it off our mental list, it is erased from memory.  
+The researcher has lent her name to this: Scientists now speak of the Zeigarnik effect.
+
+296
+
+In conclusion: We have problems perceiving nonevents. We are blind to what does not exist.
+
+296
+
+If we thought more frequently about absence, we might well be happier. But it is tough mental work.
+
+296
+
+In academia, we constantly encounter the feature-positive effect. The confirmation of hypotheses leads to publications, and in exceptional cases these are rewarded with Nobel Prizes. On the other hand, the falsification of a hypothesis is a lot harder to get published, and as far as I know, there has never been a Nobel Prize awarded for this. However, such falsification is as scientifically valuable as confirmation.
+
+297
+
+cherry picking: selecting and showcasing the most attractive features and hiding the rest.
+
+299
+
+over time, the original goals have faded. These have been replaced, quietly and secretly, with self-set goals that are always attainable.
+
+301
+
+How do you go about investigating the cause? First, you know that there will never be one sole factor. Take a sheet of paper and sketch out all the potential reasons. Do the same for the reasons behind these reasons. After a while, you will have a network of possible influencing factors. Second, highlight those you can change and delete those you cannot (such as “human nature”). Third, conduct empirical tests by varying the highlighted factors in different markets. This costs time and money, but it’s the only way to escape the swamp of superficial assumptions.
+
+302
+
+The notion of free will is up for debate. Our actions are brought about by the interaction of thousands of factors—from genetic predisposition to upbringing, from education to the concentration of hormones between individual brain cells. Still we hold firmly to the old image of self-governance. This is not only wrong but also morally questionable. As long as we believe in singular reasons, we will always be able to trace triumphs or disasters back to individuals and stamp them “responsible.”
+
+306
+
+The first weeks were hard. Very hard. I was constantly afraid of missing something. But after a while, I had a new outlook. The result after three years: clearer thoughts, more valuable insights, better decisions, and much more time. And the best thing? I haven’t missed anything important. My social network—not Facebook, the one that exists in the real world consisting of flesh-and-blood friends and acquaintances—works as a news filter and keeps me in the loop.
+
+odstawienie newsów
+
+306
+
+We are incredibly well informed, yet we know incredibly little. Why? Because two centuries ago, we invented a toxic form of knowledge called “news.” News is to the mind what sugar is to the body: appetizing, easy to digest—and highly destructive in the long run.
+
+307
+
+Everything subtle, complex, abstract, and profound must be systematically filtered out, even though such stories are much more relevant to our lives and to our understanding of the world. As a result of news consumption, we walk around with a distorted mental map of the risks and threats we actually face.
+
+307
+
+First, our brains react disproportionately to different types of information.
+
+307
+
+Second, news is irrelevant. In the past twelve months, you have probably consumed about ten thousand news snippets—perhaps as many as thirty per day. Be very honest: Name one of them, just one that helped you make a better decision—for your life, your career, or your business—compared with not having this piece of news. No one I have asked has been able to name more than two useful news stories—out of ten thousand. A miserable result.
+
+308
+
+Third, news is a waste of time. An average human being squanders half a day each week on reading about current affairs. In global terms, this is an immense loss of productivity.
+
+309
+
+The pope asked Michelangelo: “Tell me the secret of your genius. How have you created the statue of David, the masterpiece of all masterpieces?” Michelangelo’s answer: “It’s simple. I removed everything that is not David.
+
+309
+
+We don’t know for sure what makes us successful. We can’t pinpoint exactly what makes us happy. But we know with certainty what destroys success or happiness. This realization, as simple as it is, is fundamental: Negative knowledge (what not to do) is much more potent than positive knowledge (what to do).
+
+309
+
+The Greeks, Romans, and medieval thinkers had a term for this approach: via negativa. Literally, the negative path, the path of renunciation, of exclusion, of reduction. Theologians were the first to tread the via negativa: We cannot say what God is; we can only say what God is not. Applied to the present day: We cannot say what brings us success. We can pin down only what blocks or obliterates success. Eliminate the downside, the thinking errors, and the upside will take care of itself. This is all we need to know.
+
+310
+
+The hot theory is as old as the hills. Here is Plato’s analogy: A rider steers wildly galloping horses; the rider signifies reason and the galloping horses embody emotions. Reason tames feelings. If this fails, irrationality runs free. Another example: Feelings are like bubbling lava. Usually, reason can keep a lid on them, but every now and then the lava of irrationality erupts. Hence hot irrationality.
+
+310
+
+Two theories of irrationality exist: a hot and a cold.
+
+310
+
+According to Austrian psychoanalyst Sigmund Freud’s theory, the rationalist “ego” and the moralistic “superego” control the impulsive “id.” But that theory holds less water in the real world. Forget about obligation and discipline. To believe that we can completely control our emotions through thinking is illusory—as illusory as trying to make your hair grow by willing it to.
+
+311
+
+a cold theory of irrationality that states: Thinking is in itself not pure, but prone to error. This affects everyone. Even highly intelligent people fall into the same cognitive traps. Likewise, errors are not randomly distributed. We systematically err in the same direction. That makes our mistakes predictable, and thus fixable to a degree—but only to a degree, never completely.
+
+311
+
+Thinking is a biological phenomenon. Evolution has shaped it just as it has the forms of animals or the colors of flowers.
+
+311
+
+Suppose we could go back fifty thousand years, grab hold of an ancestor, and bring him back with us into the present. We send him to the hairdresser and put him in a Hugo Boss suit. Would he stand out on the street? No. Of course, he would have to learn English, how to drive, and how to operate a cell phone, but we had to learn those things, too. Biology has dispelled all doubt: Physically, and that includes cognitively, we are hunter-gatherers in Hugo Boss (or H&M, as the case may be).
+
+:)
+
+311
+
+the cold theory of irrationality is still young. After the Second World War, many searched for explanations about the irrationality of the Nazis. Emotional outbursts were rare in Hitler’s leadership ranks. Even his fiery speeches were nothing more than masterful performances. It was not molten eruptions but stone-cold calculation that resulted in the Nazi madness. The same can be said of Stalin or of the Khmer Rouge.
+
+311
+
+Physically, and that includes cognitively, we are hunter-gatherers in Hugo Boss
+
+312
+
+The result is overwhelming material prosperity, but also lifestyle diseases (such as type 2 diabetes, lung cancer, and depression) and errors in thinking.
+
+312
+
+In the past ten thousand years, we have created a world that we no longer understand.
+
+312
+
+Everything is more sophisticated, but also more complex and interdependent.
+
+312
+
+What has changed markedly since ancient times is the environment in which we live. Back then, things were simple and stable. We lived in small groups of about fifty people. There was no significant technological or social progress. Only in the last ten thousand years did the world begin to transform dramatically, with the development of crops, livestock, villages, cities, global trade, and financial markets. Since industrialization, little is left of the environment for which our brain is optimized.
+
+312
+
+If the complexity continues to rise—and it will, that much is certain—these errors will only increase and intensify.
+
+313
+
+Why is that? Evolution does not “optimize” us completely.
+
+313
+
+A second, parallel explanation of why our mistakes are so persistent took shape in the late 1990s: Our brains are designed to reproduce rather than search for the truth. In other words, we use our thoughts primarily to persuade. Whoever convinces others secures power and thus access to resources. Such assets represent a major advantage for mating and for rearing offspring.
+
+314
+
+we often decide intuitively and justify our choices later. Many decisions (career, life partner, investments) take place subconsciously. A fraction of a second later, we construct a reason so that we feel we made a conscious choice. Alas, we do not behave like scientists who are purely interested in objective facts. Instead, we think like lawyers, crafting the best possible justification for a predetermined conclusion.
+
+314
+
+forget about the “left and right brain” that semi-intelligent self-help books describe. Much more important is the difference between intuitive and rational thinking. Both have legitimate applications. The intuitive mind is swift, spontaneous, and energy-saving. Rational thinking is slow, demanding, and energy-guzzling (in the form of blood sugar). Nobody has described this better than the great Daniel Kahneman in Thinking, Fast and Slow.
+
+314
+
+a third explanation exists: Intuitive decisions, even if they lack logic, are better under certain circumstances. So-called heuristic research deals with this topic. For many decisions, we lack the necessary information, so we are forced to use mental shortcuts and rules of thumb (heuristics)
+
+315
+
+In situations where the consequences are small (i.e., regular or Diet Pepsi, sparkling or flat water?), I forget about rational optimization and let my intuition take over.
+
+315
+
+To make things simple, I have set myself the following rules: In situations where the possible consequences are large (i.e., important personal or business decisions), I try to be as reasonable and rational as possible when choosing. I take out my list of errors and check them off one by one, just like a pilot does. I’ve created a handy checklist decision tree, and I use it to examine important decisions

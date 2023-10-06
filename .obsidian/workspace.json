@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formatowanie zaawansowane....md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formatowanie zaawansowane....md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formatowanie zaawansowane....md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formatowanie zaawansowane....md"
+                "file": "README.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "46df1c5e35fe6f42",
   "lastOpenFiles": [
+    "Formatowanie zaawansowane....md",
     "Library/Authors/Daniel Kahneman.md",
     "Library/Authors/Buster Benson.md",
-    "Formatowanie zaawansowane....md",
     "Zettelkasten/Cognitive biases.md",
     "Zettelkasten/z szablonem.md",
     "Przykładowe  notatki/Untitled.md",

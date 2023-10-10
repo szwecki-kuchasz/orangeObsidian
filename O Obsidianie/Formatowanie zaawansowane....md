@@ -7,8 +7,8 @@
 
 
 Lorem ipsum
-* Dolr sit amet
-* Sic
+* Dolor sit amet
+* Sic, non plus ultra
 
 
 | Nagłówek 1 | Kolumna 2 | Kolumna trzecia | I czwarta |

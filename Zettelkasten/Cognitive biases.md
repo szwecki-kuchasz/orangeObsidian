@@ -5,3 +5,5 @@ oraz [[Buster Benson - Cognitive bias cheat sheet. An organized list of cognitiv
 - [[Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja)]]
 
 
+## Confirmation bias / błąd konfirmacji
+Matka wszystkich błędów (...)

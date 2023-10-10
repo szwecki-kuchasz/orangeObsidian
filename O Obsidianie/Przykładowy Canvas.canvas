@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"ac436fd4ad9217d0","x":-536,"y":-40,"width":400,"height":302,"type":"file","file":"Library/Books/Dobelli - Sztuka jasnego myślenia.md"},
-		{"id":"6ef96397b38a6e61","x":-186,"y":-240,"width":346,"height":352,"type":"file","file":"Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md"},
-		{"id":"6518c26a8ec75748","x":200,"y":133,"width":250,"height":129,"color":"2","type":"text","text":"Notatka dodana na samym Canvasie\nLorem ipsum"}
+		{"id":"19d5ed3f2a411ba8","type":"group","x":-640,"y":320,"width":1697,"height":300,"label":"Zgrupowane, a wcześniej dodane jako folder"},
+		{"id":"ac436fd4ad9217d0","type":"file","file":"Library/Books/Dobelli - Sztuka jasnego myślenia.md","x":-536,"y":-40,"width":400,"height":302},
+		{"id":"6ef96397b38a6e61","type":"file","file":"Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md","x":-186,"y":-240,"width":346,"height":352},
+		{"id":"d25c6c8bae39a245","type":"link","url":"https://en.wikipedia.org/wiki/List_of_cognitive_biases","x":-800,"y":-380,"width":440,"height":240},
+		{"id":"3c1a43c677cd4ad2","type":"text","text":"*Można dodać witrynę*","x":-286,"y":-360,"width":186,"height":78},
+		{"id":"6518c26a8ec75748","type":"text","text":"*Notatka dodana na samym Canvasie\nLorem ipsum*","x":200,"y":-140,"width":250,"height":129,"color":"2"},
+		{"id":"a5ea572d22f4aee5","type":"file","file":"Library/Authors/Buster Benson.md","x":-576,"y":365,"width":400,"height":215},
+		{"id":"a72492f83709ade4","type":"file","file":"Library/Authors/Daniel Kahneman.md","x":-140,"y":365,"width":400,"height":215},
+		{"id":"07c7e225a7152151","type":"file","file":"Library/Authors/Łukasz Lamża.md","x":285,"y":365,"width":400,"height":215}
 	],
 	"edges":[
 		{"id":"78d402c20a12d97c","fromNode":"6ef96397b38a6e61","fromSide":"top","toNode":"ac436fd4ad9217d0","toSide":"left","fromEnd":"arrow","label":"podobne tematy..."},
-		{"id":"c3dbab09235b2a1f","fromNode":"6ef96397b38a6e61","fromSide":"top","toNode":"6518c26a8ec75748","toSide":"bottom","color":"5"}
+		{"id":"c3dbab09235b2a1f","fromNode":"6ef96397b38a6e61","fromSide":"top","toNode":"6518c26a8ec75748","toSide":"bottom","color":"5"},
+		{"id":"c713c76b1264720e","fromNode":"d25c6c8bae39a245","fromSide":"right","toNode":"3c1a43c677cd4ad2","toSide":"left"},
+		{"id":"c587b15f47fc9fb6","fromNode":"ac436fd4ad9217d0","fromSide":"left","toNode":"d25c6c8bae39a245","toSide":"bottom"}
 	]
 }

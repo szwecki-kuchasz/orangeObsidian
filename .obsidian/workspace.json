@@ -11,8 +11,15 @@
             "id": "46df1c5e35fe6f42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "O Obsidianie/Przykładowy Canvas.canvas",
+                "viewState": {
+                  "x": -43,
+                  "y": 11,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "O Obsidianie/Przykładowy Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "O Obsidianie/Przykładowy Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "O Obsidianie/Przykładowy Canvas.canvas"
+              }
             }
           },
           {
@@ -156,22 +167,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46df1c5e35fe6f42",
+  "active": "fec5933eaba8ab15",
   "lastOpenFiles": [
-    "Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
+    "O Obsidianie/Przykładowy Canvas.canvas",
+    "README.md",
+    "Untitled 1.canvas",
+    "O Obsidianie/Formatowanie zaawansowane....md",
+    "O Obsidianie",
+    "Zettelkasten/Cognitive biases.md",
+    "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
     "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
     "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
     "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
-    "README.md",
-    "Formatowanie zaawansowane....md",
     "Library/Authors/Daniel Kahneman.md",
     "Library/Authors/Buster Benson.md",
-    "Zettelkasten/Cognitive biases.md",
     "Zettelkasten/z szablonem.md",
     "Przykładowe  notatki/Untitled.md",
     "Templates/testowy szablon.md",
     "Zettelkasten/Untitled.canvas",
-    "Web",
+    "Library/Web",
     "Canvas 1.canvas",
     "2023-09-19.md",
     "Pasted image 20230921130018.png",
@@ -185,7 +199,6 @@
     "Library",
     "Synchronizacja/Synchronizacja.md",
     "Synchronizacja",
-    "Untitled.canvas",
     "Templates",
     "Zettelkasten",
     "Przykładowe  notatki"

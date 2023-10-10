@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ac436fd4ad9217d0","x":-536,"y":-40,"width":400,"height":302,"type":"file","file":"Library/Books/Dobelli - Sztuka jasnego myślenia.md"},
+		{"id":"6ef96397b38a6e61","x":-186,"y":-240,"width":346,"height":352,"type":"file","file":"Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md"},
+		{"id":"6518c26a8ec75748","x":200,"y":133,"width":250,"height":129,"color":"2","type":"text","text":"Notatka dodana na samym Canvasie\nLorem ipsum"}
+	],
+	"edges":[
+		{"id":"78d402c20a12d97c","fromNode":"6ef96397b38a6e61","fromSide":"top","toNode":"ac436fd4ad9217d0","toSide":"left","fromEnd":"arrow","label":"podobne tematy..."},
+		{"id":"c3dbab09235b2a1f","fromNode":"6ef96397b38a6e61","fromSide":"top","toNode":"6518c26a8ec75748","toSide":"bottom","color":"5"}
+	]
+}

@@ -9,9 +9,7 @@ W ICD jest też miejsce na izolowane objawy budzące niepokój, na przykład ne
 
 10
 
-Diagnostyczny i statystyczny podręcznik zaburzeń psychicznych (Diagnostic and Statistical Manual of Mental Disorders, DSM)[2]. Obecnie obowiązuje jej piąta edycja: DSM-5.
-
-10
+Diagnostyczny i statystyczny podręcznik zaburzeń psychicznych (Diagnostic and Statistical Manual of Mental Disorders, DSM). Obecnie obowiązuje jej piąta edycja: DSM-5.
 
 Obecna edycja zawiera siedemnaście tysięcy kategorii, z których nie wszystkie mają w nazwie „chorobę” – klasyfikacja uwzględnia też „zaburzenia”, „urazy”, „zatrucia”, „objawy”, „cechy chorobowe”, „powikłania” i wiele innych „jednostek diagnostycznych
 
@@ -19,27 +17,17 @@ Obecna edycja zawiera siedemnaście tysięcy kategorii, z których nie wszystki
 
 ICD nie definiuje pojęć „choroba” i „zdrowie”, co zresztą okazałoby się niezwykle kłopotliwe.
 
-15
-
-Weźmy łysienie. Zauważalne wypadanie włosów zgłasza mniej więcej połowa mężczyzn i jedna czwarta kobiet w wieku pięćdziesięciu lat
-
 22
 
 W 1998 roku – za sprawą nowej definicji tego pojęcia przyjętej przez NIH – z dnia na dzień dwadzieścia pięć milionów Amerykanów wypadło poza zakres prawidłowej masy ciała
 
 23
 
-„Coraz więcej pacjentów zaczyna zachowywać się jak konsumenci”. Tę ostatnią uwagę można szybko zestawić z gigantycznymi wynikami sprzedaży leków na receptę, bez recepty i suplementów diety w naszym kraju. W 2019 roku Polacy kupili 722 miliony opakowań leków na receptę, 790 milionów opakowańleków bez recepty24 i około 215 milionów opakowań suplementów diety: co daje łącznie 45 opakowań rocznie na osobę
-
-26
-
-pobawmy się trochę liczbami.  
-W Polsce mieszka obecnie 31 milionów dorosłych osób. Niech każda z nich zgłosi
+„Coraz więcej pacjentów zaczyna zachowywać się jak konsumenci”. Tę ostatnią uwagę można szybko zestawić z gigantycznymi wynikami sprzedaży leków na receptę, bez recepty i suplementów diety w naszym kraju. W 2019 roku Polacy kupili 722 miliony opakowań leków na receptę, 790 milionów opakowańleków bez recepty i około 215 milionów opakowań suplementów diety: co daje łącznie 45 opakowań rocznie na osobę
 
 30
 
-Każda decyzja o medykalizacji jakiegoś problemu wiąże się z pewnymi potencjalnymi szkodami. Im więcej przyjmujemy leków, tym częściej będziemy mieć do czynienia z ich skutkami ubocznymi. Komisja zdrowia przy brytyjskiej Izbie Gmin oszacowała, że za pięć procent wszystkich przyjęć do szpitali w Wielkiej Brytanii odpowiadają działania niepożądane leków32.  
-Co
+Każda decyzja o medykalizacji jakiegoś problemu wiąże się z pewnymi potencjalnymi szkodami. Im więcej przyjmujemy leków, tym częściej będziemy mieć do czynienia z ich skutkami ubocznymi. Komisja zdrowia przy brytyjskiej Izbie Gmin oszacowała, że za pięć procent wszystkich przyjęć do szpitali w Wielkiej Brytanii odpowiadają działania niepożądane leków
 
 32
 
@@ -51,7 +39,7 @@ W ICD-10 zaburzenia te mieszczą się w sekcji o numerze F60 i zdefiniowane 
 
 42
 
-Królem modnych diagnoz – a właściwie „pseudodiagnoz”, bo proces diagnozowania może się sprowadzać do samodzielnego stwierdzenia, że „to do mnie pasuje”, na podstawie artykułu w Wikipedii – są zaburzenia mieszczące się w tak zwanym spektrum autyzmu, zwłaszcza zespół Aspergera, nazywany czasem „łagodną formą autyzmu”. „Moda na aspergera” doczekała się już nawet opracowania medycznego43, którego autorka zwraca uwagę między innymi na to, że diagnoza ta – zwłaszcza w postaci amatorskiej autodiagnozy – dostarcza „atrakcyjnej wymówki” dla braku umiejętności społecznych, ponieważ jest on częstym, choć niekoniecznym elementem towarzyszącym rzeczywistej chorobie. Co jednak najistotniejsze, autyzm i asperger, niekoniecznie słusznie, kojarzą się powszechnie z geniuszem za sprawą autystycznych sawantów, posiadających pamięć absolutną albo wybitne umiejętności malarskie. W autodiagnozowaniu się jako „aspie”, jak pieszczotliwie określa się czasem osoby z zespołem Aspergera, może więc chodzić o zakomunikowanie całemu światu: „Jestem trochę dziwny i aspołeczny, ale tylko dlatego, że jestem też trochę genialny
+Królem modnych diagnoz – a właściwie „pseudodiagnoz”, bo proces diagnozowania może się sprowadzać do samodzielnego stwierdzenia, że „to do mnie pasuje”, na podstawie artykułu w Wikipedii – są zaburzenia mieszczące się w tak zwanym spektrum autyzmu, zwłaszcza zespół Aspergera, nazywany czasem „łagodną formą autyzmu”. „Moda na aspergera” doczekała się już nawet opracowania medycznego, którego autorka zwraca uwagę między innymi na to, że diagnoza ta – zwłaszcza w postaci amatorskiej autodiagnozy – dostarcza „atrakcyjnej wymówki” dla braku umiejętności społecznych, ponieważ jest on częstym, choć niekoniecznym elementem towarzyszącym rzeczywistej chorobie. Co jednak najistotniejsze, autyzm i asperger, niekoniecznie słusznie, kojarzą się powszechnie z geniuszem za sprawą autystycznych sawantów, posiadających pamięć absolutną albo wybitne umiejętności malarskie. W autodiagnozowaniu się jako „aspie”, jak pieszczotliwie określa się czasem osoby z zespołem Aspergera, może więc chodzić o zakomunikowanie całemu światu: „Jestem trochę dziwny i aspołeczny, ale tylko dlatego, że jestem też trochę genialny
 
 43
 
@@ -67,7 +55,7 @@ wielu ludzi, zamiast odkrywać problemy, aktywnie je w sobie wytwarza, porównu
 
 46
 
-, gdy pojawia się poważniejszy problem, z łatwością zapominamy o tych drobnych. Najlepszym lekarstwem na nieznośne uczucie ssania w brzusiu, gdy dwie godziny po obiedzie spada nam poziom cukru, jest rąbnąć się w palec młotkiem
+(...) gdy pojawia się poważniejszy problem, z łatwością zapominamy o tych drobnych. Najlepszym lekarstwem na nieznośne uczucie ssania w brzusiu, gdy dwie godziny po obiedzie spada nam poziom cukru, jest rąbnąć się w palec młotkiem
 
 81
 
@@ -101,7 +89,6 @@ Ważnym wydarzeniem w dziejach problemu „rasa a inteligencja” była publi
 
 wiadomo, że picie przez lata wody z ołowiem – nawet w stężeniu, które nie jest nominalnie toksyczne – negatywnie wpływa na rozwój poznawczy, w tym wyniki testów inteligencji38. W jednym z badań oszacowano, że każde dodatkowe 10 mikrogramów ołowiu w decylitrze wody obniża wynik testu IQ o 5,8 punktu
 
-
 142
 
 Mowa o tak zwanym efekcie Flynna: obserwowanym już od wielu dekad stopniowym wzroście średnich wyników testów IQ. Już sama ta obserwacja stanowi ciekawy komentarz
@@ -111,6 +98,3 @@ Mowa o tak zwanym efekcie Flynna: obserwowanym już od wielu dekad stopniowym w
 
 ludzie są kiepskim źródłem informacji medycznych, nawet jeśli w grę wchodzi ich życie, o czym najlepiej wiedzą pracownicy służb ratunkowych
 
-190
-
-Termin „otherkin”, którego nie tłumaczy się na polski, ale który można by przełożyć jako „innego rodzaju”, odnosi się do osób, które nie identyfikują się w pełni jako ludzie, czując w sobie tożsamość elfa, wampira, smoka, lisa, anioła, demona i tak dalej (to wszystko prawdziwe przypadki, w dodatku te najpopularniejsze

@@ -5,7 +5,7 @@
 - Punktowana
 - itd
 
-
+![[obsidian logo.png]]
 Lorem ipsum
 * Dolor sit amet
 * Sic, non plus ultra

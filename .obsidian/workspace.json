@@ -15,8 +15,8 @@
               "state": {
                 "file": "O Obsidianie/Przykładowy Canvas.canvas",
                 "viewState": {
-                  "x": 128.5,
-                  "y": 120,
+                  "x": 386.4297588832487,
+                  "y": 134.25742385786796,
                   "zoom": -0.3742098042289796
                 }
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b77ea01676c22e78",
@@ -167,19 +168,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fec5933eaba8ab15",
+  "active": "b343bbac8acb8903",
   "lastOpenFiles": [
-    "obsidian logo.png",
+    "O Obsidianie/Formatowanie zaawansowane....md",
+    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
+    "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
+    "Library/Authors/Łukasz Lamża.md",
     "O Obsidianie/Przykładowy Canvas.canvas",
+    "obsidian logo.png",
     "Zettelkasten/Cognitive biases.md",
     "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
-    "O Obsidianie/Formatowanie zaawansowane....md",
     "README.md",
     "Untitled 1.canvas",
     "O Obsidianie",
     "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
-    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
-    "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
     "Library/Authors/Daniel Kahneman.md",
     "Library/Authors/Buster Benson.md",
     "Zettelkasten/z szablonem.md",
@@ -193,7 +195,6 @@
     "Pasted image 20230921123143.png",
     "Obsidian - synchronizacja.md",
     "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
-    "Library/Authors/Łukasz Lamża.md",
     "Synchronizacja/Untitled.canvas",
     "Library/Authors",
     "Library/Books",

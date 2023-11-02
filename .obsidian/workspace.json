@@ -11,14 +11,11 @@
             "id": "5e29c25ba7c23674",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "O Obsidianie/Przykładowy Canvas.canvas",
-                "viewState": {
-                  "x": -30,
-                  "y": 120,
-                  "zoom": -0.2422009024166282
-                }
+                "file": "Library/Authors/Daniel Kahneman.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,14 +23,15 @@
             "id": "2727ff0cab91e9e3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 392
   },
   "right": {
     "id": "b77ea01676c22e78",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O Obsidianie/Przykładowy Canvas.canvas",
+                "file": "Library/Authors/Daniel Kahneman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O Obsidianie/Przykładowy Canvas.canvas",
+                "file": "Library/Authors/Daniel Kahneman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O Obsidianie/Przykładowy Canvas.canvas"
+                "file": "Library/Authors/Daniel Kahneman.md"
               }
             }
           },
@@ -158,14 +156,33 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d24ff46265e0dc67",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "581bab0c154d5495",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Library/Authors/Daniel Kahneman.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,21 +195,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2727ff0cab91e9e3",
+  "active": "5e29c25ba7c23674",
   "lastOpenFiles": [
-    "O Obsidianie/Formatowanie zaawansowane....md",
-    "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
-    "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
-    "O Obsidianie/Przykładowy Canvas.canvas",
-    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
-    "Library/Authors/Łukasz Lamża.md",
-    "obsidian logo.png",
-    "Zettelkasten/Cognitive biases.md",
+    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
     "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
+    "Library/Books/Untitled.md",
+    "O Obsidianie/Properties.md",
+    "Library/Authors/Daniel Kahneman.md",
+    "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
+    "Zettelkasten/Cognitive biases.md",
+    "Library/Authors/Łukasz Lamża.md",
+    "O Obsidianie/Przykładowy Canvas.canvas",
+    "O Obsidianie/Formatowanie zaawansowane....md",
+    "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
+    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
+    "obsidian logo.png",
     "README.md",
     "Untitled 1.canvas",
     "O Obsidianie",
-    "Library/Authors/Daniel Kahneman.md",
     "Library/Authors/Buster Benson.md",
     "Zettelkasten/z szablonem.md",
     "Przykładowe  notatki/Untitled.md",
@@ -204,7 +224,6 @@
     "Pasted image 20230921130018.png",
     "Pasted image 20230921123143.png",
     "Obsidian - synchronizacja.md",
-    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
     "Synchronizacja/Untitled.canvas",
     "Library/Authors",
     "Library/Books",

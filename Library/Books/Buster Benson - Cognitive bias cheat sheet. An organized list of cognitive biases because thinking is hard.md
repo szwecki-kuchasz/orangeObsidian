@@ -1,3 +1,6 @@
+---
+aliases:
+---
 # Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard. | by Buster Benson | Better Humans
 
 [[Buster Benson]]

@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "3e363e53408f3748",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "2727ff0cab91e9e3",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e29c25ba7c23674",
+  "active": "3e363e53408f3748",
   "lastOpenFiles": [
     "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
     "Library/Authors/Daniel Kahneman.md",

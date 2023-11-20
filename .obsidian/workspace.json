@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0eab3bf6ebf19817",
+        "id": "c8af6395d6fedcb3",
         "type": "tabs",
         "children": [
           {
-            "id": "5e29c25ba7c23674",
+            "id": "c023bf238cc0206b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3e363e53408f3748",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "2727ff0cab91e9e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,25 +183,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e363e53408f3748",
+  "active": "c023bf238cc0206b",
   "lastOpenFiles": [
-    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
-    "Library/Authors/Daniel Kahneman.md",
-    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
-    "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
-    "Library/Books/Untitled.md",
-    "O Obsidianie/Kahneman, Thinking, Fast and Slow (Properties, od wersji 1.4.x).md",
-    "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
-    "Zettelkasten/Cognitive biases.md",
-    "Library/Authors/Łukasz Lamża.md",
-    "O Obsidianie/Przykładowy Canvas.canvas",
     "O Obsidianie/Formatowanie zaawansowane....md",
+    "O Obsidianie/Przykładowy Canvas.canvas",
+    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
+    "Library/Authors/Daniel Kahneman.md",
+    "O Obsidianie/Kahneman, Thinking, Fast and Slow (Properties, od wersji 1.4.x).md",
+    "Library/Authors/Buster Benson.md",
+    "Library/Authors/Łukasz Lamża.md",
+    "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
+    "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
     "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
+    "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
     "obsidian logo.png",
+    "Library/Books/Untitled.md",
+    "Zettelkasten/Cognitive biases.md",
     "README.md",
     "Untitled 1.canvas",
     "O Obsidianie",
-    "Library/Authors/Buster Benson.md",
     "Zettelkasten/z szablonem.md",
     "Przykładowe  notatki/Untitled.md",
     "Templates/testowy szablon.md",

@@ -8,7 +8,7 @@ pages: 250
 ---
 Major New York Times bestseller
 Winner of the National Academy of Sciences Best Book Award in 2012
-Selected by the New York Times Book Review as one of the ten best books of 2011
+Selected by the New York Times Book Review as one of the ten best books of 2011.
 A Globe and Mail Best Books of the Year 2011 Title
 One of The Economist 's 2011 Books of the Year
 One of The Wall Street Journal 's Best Nonfiction Books of the Year 2011

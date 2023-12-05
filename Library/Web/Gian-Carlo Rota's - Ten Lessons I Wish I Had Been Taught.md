@@ -3,7 +3,9 @@
 | --- | --- |
 | Witryna Farnam Street | https://fs.blog/gian-carlo-rota/ |
 
+
 - Gian-Carlo Rota's "Ten Lessons I Wish I Had Been Taught" provides valuable insights for making people pay attention to your ideas.
+
 
 1. Every lecture should make only one point.
 2. Never run over time.

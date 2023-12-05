@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "O Obsidianie/Kahneman, Thinking, Fast and Slow (Properties, od wersji 1.4.x).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392
+    "width": 327
   },
   "right": {
     "id": "b77ea01676c22e78",
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,16 +185,16 @@
   },
   "active": "c023bf238cc0206b",
   "lastOpenFiles": [
-    "Library/Authors/Daniel Kahneman.md",
-    "O Obsidianie/Kahneman, Thinking, Fast and Slow (Properties, od wersji 1.4.x).md",
     "O Obsidianie/Formatowanie zaawansowane....md",
+    "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
+    "O Obsidianie/Kahneman, Thinking, Fast and Slow (Properties, od wersji 1.4.x).md",
+    "Library/Authors/Daniel Kahneman.md",
     "Library/Authors/Buster Benson.md",
     "README.md",
     "O Obsidianie/Przykładowy Canvas.canvas",
     "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
     "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
     "Library/Authors/Łukasz Lamża.md",
-    "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
     "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
     "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
     "obsidian logo.png",

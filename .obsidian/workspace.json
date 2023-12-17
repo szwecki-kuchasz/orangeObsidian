@@ -11,11 +11,14 @@
             "id": "f2425adc0ad09598",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Library/Authors/Daniel Kahneman.md",
-                "mode": "source",
-                "source": false
+                "file": "O Obsidianie/Przykładowy Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 396.44776119402985,
+                  "zoom": -0.978304928900681
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Authors/Daniel Kahneman.md",
+                "file": "O Obsidianie/Przykładowy Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Authors/Daniel Kahneman.md",
+                "file": "O Obsidianie/Przykładowy Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Authors/Daniel Kahneman.md"
+                "file": "O Obsidianie/Przykładowy Canvas.canvas"
               }
             }
           },
@@ -161,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Library/Authors/Daniel Kahneman.md"
+                "file": "O Obsidianie/Przykładowy Canvas.canvas"
               }
             }
           }
@@ -183,19 +186,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2425adc0ad09598",
+  "active": "fec5933eaba8ab15",
   "lastOpenFiles": [
     "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
-    "O Obsidianie/Przykładowy Canvas.canvas",
+    "Library/Authors/Daniel Kahneman.md",
     "Library/Books/Dobelli - Sztuka jasnego myślenia.md",
-    "Zettelkasten/Cognitive biases.md",
+    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
     "Library/Books/Buster Benson - Cognitive bias cheat sheet. An organized list of cognitive biases because thinking is hard.md",
+    "O Obsidianie/Przykładowy Canvas.canvas",
+    "Zettelkasten/Cognitive biases.md",
     "Library/Authors/Buster Benson.md",
     "O Obsidianie/Kahneman, Thinking, Fast and Slow (Properties, od wersji 1.4.x).md",
     "O Obsidianie/Formatowanie zaawansowane....md",
-    "Library/Authors/Daniel Kahneman.md",
     "README.md",
-    "Library/Books/Carol Tavris & Elliot Aronson - Błądzą wszyscy (ale nie ja).md",
     "Library/Authors/Łukasz Lamża.md",
     "Library/Books/Trudno powiedzieć - Łukasz Lamża.md",
     "obsidian logo.png",

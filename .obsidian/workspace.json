@@ -154,7 +154,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -186,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fec5933eaba8ab15",
+  "active": "f2425adc0ad09598",
   "lastOpenFiles": [
     "Library/Web/Gian-Carlo Rota's - Ten Lessons I Wish I Had Been Taught.md",
     "Library/Authors/Daniel Kahneman.md",
